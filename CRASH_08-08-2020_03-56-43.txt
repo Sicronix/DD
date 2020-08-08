@@ -1,0 +1,799 @@
+[17:56:08]  Appending 'C:/Program Files (x86)/Steam/steamapps/common/project-hedra/x64/' to the PATH for library finding.
+[17:56:08]  Creating the window on the Primary Device at 1920x1080
+[17:56:09]  Running 1.0 Build 16 as x64
+[17:56:10]  Max uniforms is '1024' but max joints is '50'
+[17:56:10]  3.3.0 NVIDIA 451.67
+[17:56:13] [IO] Registered resource handler... (Total = 1)
+[17:56:13] [System] Shader'<Passthrough.vert>:<Passthrough.frag>:<>' compiled succesfully with Id '3'.
+[17:56:13] [System] Shader '<Passthrough.vert>:<Passthrough.frag>:<>' linked successfully
+[17:56:13] [System] Shader'<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' compiled succesfully with Id '5'.
+[17:56:13] [System] Shader '<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' linked successfully
+[17:56:13] [System] Parsing uniform array 'jointTransforms'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '5'
+[17:56:13] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '5'
+[17:56:13]  Geometry shaders are ENABLED
+[17:56:13]  Compatibility mode is OFF...
+[17:56:13]  Attemping to load sound engine...
+[17:56:14]  Generating a pool of sound sources...
+[17:56:14]  Generating a pool of sound items...
+[17:56:14]  Loading Python engine...
+[17:56:14]  Python engine was successfully loaded in 294 MS
+[17:56:15]  Sound engine loaded succesfully
+[17:56:15]  Loading sounds...
+[17:56:15] [IO] Registered resource handler... (Total = 2)
+[17:56:15] [System] Loading BirchTreesCache into cache as BirchTrees...
+[17:56:15] [System] Loading CauldronIconCache into cache as CauldronIcon...
+[17:56:15] [System] Loading ClockIconCache into cache as ClockIcon...
+[17:56:15] [System] Loading Dungeon0Cache into cache as Dungeon0...
+[17:56:15] [System] Loading Dungeon1Cache into cache as Dungeon1...
+[17:56:15] [System] Loading Dungeon1IconCache into cache as Dungeon1Icon...
+[17:56:15] [System] Loading Dungeon2Cache into cache as Dungeon2...
+[17:56:15] [System] Loading Dungeon2IconCache into cache as Dungeon2Icon...
+[17:56:15] [System] Loading Dungeon0IconCache into cache as Dungeon0Icon...
+[17:56:15] [System] Loading FishingPostIconCache into cache as FishingPostIcon...
+[17:56:15] [System] Loading GarrisonCache into cache as Garrison...
+[17:56:15] [System] Loading GarrisonIconCache into cache as GarrisonIcon...
+[17:56:16] [System] Loading GnollFortressCache into cache as GnollFortress...
+[17:56:16] [System] Loading GnollFortressIconCache into cache as GnollFortressIcon...
+[17:56:16] [System] Loading LilyPadCache into cache as LilyPad...
+[17:56:16] [System] Loading RosemaryCache into cache as Rosemary...
+[17:56:16] [System] Loading ShroomDimensionPortalCache into cache as ShroomPortal...
+[17:56:16] [System] Loading ShroomDimensionPortalIconCache into cache as ShroomPortalIcon...
+[17:56:16] [System] Loading ThymeCache into cache as Thyme...
+[17:56:16] [System] Loading StorylineCache into cache as StorylineIcon...
+[17:56:16] [System] Loading TreeStumpCache into cache as TreeStump...
+[17:56:16] [System] Loading WillowTreesCache into cache as WillowTrees...
+[17:56:16] [System] Loading WindmillIconCache into cache as WindmillIcon...
+[17:56:16] [System] Loading WizardTowerCache into cache as WizardTower...
+[17:56:16] [System] Loading WoodLogCache into cache as WoodLog...
+[17:56:16] [System] Loading CabbageCache into cache as Cabbage...
+[17:56:16] [System] Loading CarrotPlantCache into cache as Carrot...
+[17:56:16] [System] Loading CornCache into cache as Corn...
+[17:56:16] [System] Loading DeadGrassCache into cache as DeadGrass...
+[17:56:16] [System] Loading DeathIconCache into cache as DeathIcon...
+[17:56:16] [System] Loading GazeboCache into cache as Gazebo...
+[17:56:16] [System] Loading GazeboIconCache into cache as GazeboIcon...
+[17:56:16] [System] Loading MushroomCache into cache as Mushroom...
+[17:56:16] [System] Loading OnionPlantCache into cache as Onion...
+[17:56:16] [System] Loading PeaPlantCache into cache as Peas...
+[17:56:16] [System] Loading PebbleCache into cache as Pebble...
+[17:56:16] [System] Loading PortalCache into cache as Portal...
+[17:56:16] [System] Loading PortalIconCache into cache as PortalIcon...
+[17:56:16] [System] Loading PumpkinCache into cache as Pumpkin...
+[17:56:16] [System] Loading StickCache into cache as Stick...
+[17:56:17] [System] Loading SunflowerCache into cache as Sunflower...
+[17:56:17] [System] Loading TimberCache into cache as Timber...
+[17:56:17] [System] Loading TomatoPlantCache into cache as Tomato...
+[17:56:17] [System] Loading WellCache into cache as Well...
+[17:56:17] [System] Loading WitchHutCache into cache as WitchHut...
+[17:56:17] [System] Loading WitchHutIconCache into cache as WitchHutIcon...
+[17:56:17]  Finished loading sounds.
+[17:56:17] [System] Loading WizardTowerIcon into cache as WizardTowerIcon...
+[17:56:17] [System] Loading AppleTreesCache into cache as AppleTrees...
+[17:56:17] [System] Loading AttentionIconCache into cache as AttentionIcon...
+[17:56:17] [System] Loading BerryBushCache into cache as BerryBush...
+[17:56:17] [System] Loading BossIconCache into cache as BossIcon...
+[17:56:17] [System] Loading BushesCache into cache as Bushes...
+[17:56:17] [System] Loading CampfireCache into cache as Campfire...
+[17:56:17] [System] Loading CampfireIconCache into cache as CampfireIcon...
+[17:56:17] [System] Loading CampfireLogsCache into cache as CampfireLogs...
+[17:56:17] [System] Loading CampfireRoasterCache into cache as CampfireRoaster...
+[17:56:17] [System] Loading CloudCache into cache as Cloud...
+[17:56:17] [System] Loading CypressTreesCache into cache as CypressTrees...
+[17:56:17] [System] Loading DeadTreesCache into cache as DeadTrees...
+[17:56:17] [System] Loading FearIconCache into cache as FearIcon...
+[17:56:17] [System] Loading FernCache into cache as Fern...
+[17:56:17] [System] Loading GiantTreeCache into cache as GiantTree...
+[17:56:17] [System] Loading GrassCache into cache as Grass...
+[17:56:17] [System] Loading GraveCache into cache as Grave...
+[17:56:17] [System] Loading GraveyardIconCache into cache as GraveyardIcon...
+[17:56:17] [System] Loading MatCache into cache as Mat...
+[17:56:17] [System] Loading MausoleumCache into cache as Mausoleum...
+[17:56:17] [System] Loading MerchantCartCache into cache as MerchantCart...
+[17:56:17] [System] Loading MerchantIconCache into cache as MerchantIcon...
+[17:56:18] [System] Loading OakTreesCache into cache as OakTrees...
+[17:56:18] [System] Loading ObeliskCache into cache as Obelisk...
+[17:56:18] [System] Loading PineTreesCache into cache as PineTrees...
+[17:56:18] [System] Loading ReedCache into cache as Reed...
+[17:56:18] [System] Loading RockCache into cache as Rock...
+[17:56:18] [System] Loading KnockedIconCache into cache as KnockedIcon...
+[17:56:18] [System] Loading SleepingIconCache into cache as SleepingIcon...
+[17:56:18] [System] Loading TallTreesCache into cache as TallTrees...
+[17:56:18] [System] Loading CampfireTentCache into cache as CampfireTent...
+[17:56:18] [System] Loading VillageIconCache into cache as VillageIcon...
+[17:56:18] [System] Loading WheatCache into cache as Wheat...
+[17:56:18]  Finished building cache.
+[17:56:18]  Translations loaded successfully.
+[17:56:18]  Initializing world renderer...
+[17:56:18] [System] Shader'<Water.vert>:<Water.frag>:<>' compiled succesfully with Id '4'.
+[17:56:18] [System] Shader '<Water.vert>:<Water.frag>:<>' linked successfully
+[17:56:18] [System] Parsing uniform array 'AreaColors'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[0]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[1]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[2]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[3]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[4]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[5]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[6]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[7]' from ShaderId '4'
+[17:56:18] [System] Parsing uniform array 'AreaPositions'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[0]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[1]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[2]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[3]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[4]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[5]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[6]' from ShaderId '4'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[7]' from ShaderId '4'
+[17:56:18] [System] Shader'<Static.vert>:<Static.frag>:<>' compiled succesfully with Id '6'.
+[17:56:18] [System] Shader '<Static.vert>:<Static.frag>:<>' linked successfully
+[17:56:18] [System] Parsing uniform array 'AreaColors'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[0]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[1]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[2]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[3]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[4]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[5]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[6]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaColors[7]' from ShaderId '6'
+[17:56:18] [System] Parsing uniform array 'AreaPositions'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[0]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[1]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[2]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[3]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[4]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[5]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[6]' from ShaderId '6'
+[17:56:18] [System] Retrieving uniform array element 'AreaPositions[7]' from ShaderId '6'
+[17:56:18]  Creating 3D noise texture...
+[17:56:18]  Loading DuDvMap...
+[17:56:18] [System] Resolving Path: Assets/FX/waterDuDvMap.png
+[17:56:18] [System] Loading Texture: Assets/FX/waterDuDvMap.png Id=2
+[17:56:18]  Loading water normal map...
+[17:56:18] [System] Resolving Path: Assets/FX/waterNormalMap.png
+[17:56:18] [System] Loading Texture: Assets/FX/waterNormalMap.png Id=3
+[17:56:18]  Detected video card type is 'Amd'
+[17:56:18]  Allocating world memory...
+[17:56:18]  Allocated 303 MB of VRAM for static rendering.
+[17:56:18]  Allocated 371 MB of VRAM for instance rendering.
+[17:56:18]  Allocated 202 MB of VRAM for water rendering.
+[17:56:18] [System] Shader'<GUI.vert>:<GUI.frag>:<>' compiled succesfully with Id '7'.
+[17:56:18] [System] Shader '<GUI.vert>:<GUI.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<GUI.vert>:<GUI.frag>:<>' compiled succesfully with Id '8'.
+[17:56:18] [System] Shader '<GUI.vert>:<GUI.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<GUI.vert>:<FXAA.frag>:<>' compiled succesfully with Id '9'.
+[17:56:18] [System] Shader '<GUI.vert>:<FXAA.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<SSAO.vert>:<SSAO-Pass1.frag>:<>' compiled succesfully with Id '10'.
+[17:56:18] [System] Shader '<SSAO.vert>:<SSAO-Pass1.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<SSAO.vert>:<SSAO-Pass2.frag>:<>' compiled succesfully with Id '11'.
+[17:56:18] [System] Shader '<SSAO.vert>:<SSAO-Pass2.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<SSAO.vert>:<SSAO-Pass3.frag>:<>' compiled succesfully with Id '12'.
+[17:56:18] [System] Shader '<SSAO.vert>:<SSAO-Pass3.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<Bloom.vert>:<Bloom.frag>:<>' compiled succesfully with Id '13'.
+[17:56:18] [System] Shader '<Bloom.vert>:<Bloom.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<HBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '14'.
+[17:56:18] [System] Shader '<HBlur.vert>:<Blur.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<VBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '15'.
+[17:56:18] [System] Shader '<VBlur.vert>:<Blur.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<UnderWater.vert>:<UnderWater.frag>:<>' compiled succesfully with Id '16'.
+[17:56:18] [System] Shader '<UnderWater.vert>:<UnderWater.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<UnderWater.vert>:<Distortion.frag>:<>' compiled succesfully with Id '17'.
+[17:56:18] [System] Shader '<UnderWater.vert>:<Distortion.frag>:<>' linked successfully
+[17:56:18] [System] Resolving Path: Assets/FX/waterDuDvMap.png
+[17:56:18] [System] Loading Texture: Assets/FX/waterDuDvMap.png Id=30
+[17:56:18] [System] Shader'<HBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '18'.
+[17:56:18] [System] Shader '<HBlur.vert>:<Blur.frag>:<>' linked successfully
+[17:56:18] [System] Shader'<VBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '19'.
+[17:56:18] [System] Shader '<VBlur.vert>:<Blur.frag>:<>' linked successfully
+[17:56:18]  Assets loading was successful.
+[17:56:18] [System] Shader'<Shadows.vert>:<Shadows.frag>:<>' compiled succesfully with Id '20'.
+[17:56:18] [System] Shader '<Shadows.vert>:<Shadows.frag>:<>' linked successfully
+[17:56:18]  Setting shadow quality to 3
+[17:56:18]  Setting shadow quality to 3
+[17:56:18]  Setting loaded successfully.
+[17:56:18]  Supported GLSL version is : 3.30 NVIDIA via Cg compiler
+[17:56:18]  OS = Microsoft Windows NT 6.2.9200.0
+CPU = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+Graphics Card = Nvidia
+
+[17:56:18]  Loading the world...
+[17:56:22]  Loading village 'Woodland' took '2507' MS
+[17:56:22]  Loading the player...
+[17:56:22] [System] Shader'<ObjectMesh.vert>:<ObjectMesh.frag>:<>' compiled succesfully with Id '21'.
+[17:56:22] [System] Shader '<ObjectMesh.vert>:<ObjectMesh.frag>:<>' linked successfully
+[17:56:22] [System] Shader'<OccludePassthrough.vert>:<Passthrough.frag>:<>' compiled succesfully with Id '22'.
+[17:56:22] [System] Shader '<OccludePassthrough.vert>:<Passthrough.frag>:<>' linked successfully
+[17:56:22] [System] Resolving Path: Assets/UI/HealthBarBackground.png
+[17:56:22] [System] Loading Texture: Assets/UI/HealthBarBackground.png Id=117
+[17:56:22] [System] Resolving Path: Assets/UI/ManaBarBackground.png
+[17:56:22] [System] Loading Texture: Assets/UI/ManaBarBackground.png Id=118
+[17:56:22] [System] Resolving Path: Assets/UI/XpBarBackground.png
+[17:56:22] [System] Loading Texture: Assets/UI/XpBarBackground.png Id=119
+[17:56:22] [System] Resolving Path: Assets/UI/HealthBar.png
+[17:56:22] [System] Loading Texture: Assets/UI/HealthBar.png Id=120
+[17:56:22] [System] Shader'<Bar.vert>:<Bar.frag>:<>' compiled succesfully with Id '23'.
+[17:56:22] [System] Shader '<Bar.vert>:<Bar.frag>:<>' linked successfully
+[17:56:22] [System] Resolving Path: Assets/UI/ManaBar.png
+[17:56:22] [System] Loading Texture: Assets/UI/ManaBar.png Id=121
+[17:56:22] [System] Resolving Path: Assets/UI/XpBar.png
+[17:56:22] [System] Loading Texture: Assets/UI/XpBar.png Id=122
+[17:56:22] [System] Resolving Path: Assets/UI/StaminaAndOxygenBarBackground.png
+[17:56:22] [System] Loading Texture: Assets/UI/StaminaAndOxygenBarBackground.png Id=123
+[17:56:22] [System] Resolving Path: Assets/UI/OxygenBar.png
+[17:56:22] [System] Loading Texture: Assets/UI/OxygenBar.png Id=124
+[17:56:22] [System] Resolving Path: Assets/UI/StaminaBar.png
+[17:56:22] [System] Loading Texture: Assets/UI/StaminaBar.png Id=125
+[17:56:22] [System] Resolving Path: Assets/UI/OxygenIcon.png
+[17:56:22] [System] Loading Texture: Assets/UI/OxygenIcon.png Id=126
+[17:56:22] [System] Resolving Path: Assets/UI/StaminaIcon.png
+[17:56:22] [System] Loading Texture: Assets/UI/StaminaIcon.png Id=127
+[17:56:22] [System] Resolving Path: Assets/UI/Pointer.png
+[17:56:22] [System] Loading Texture: Assets/UI/Pointer.png Id=128
+[17:56:22] [System] Resolving Path: Assets/UI/Compass.png
+[17:56:22] [System] Loading Texture: Assets/UI/Compass.png Id=129
+[17:56:22] [System] Shader'<Bar.vert>:<Bar.frag>:<>' compiled succesfully with Id '24'.
+[17:56:22] [System] Shader '<Bar.vert>:<Bar.frag>:<>' linked successfully
+[17:56:22] [System] Loaded model '$DataFile$/Assets/Chr/WarriorIdle.dae' with '15' joints
+[17:56:22] [System] Shader'<AnimatedModel.vert>:<AnimatedModel.frag>:<>' compiled succesfully with Id '25'.
+[17:56:22] [System] Shader '<AnimatedModel.vert>:<AnimatedModel.frag>:<>' linked successfully
+[17:56:22] [System] Parsing uniform array 'jointTransforms'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '25'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '25'
+[17:56:22] [System] Shader'<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' compiled succesfully with Id '27'.
+[17:56:22] [System] Shader '<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' linked successfully
+[17:56:22] [System] Parsing uniform array 'jointTransforms'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '27'
+[17:56:22] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '27'
+[17:56:23] [System] Shader'<TrailRenderer.vert>:<TrailRenderer.frag>:<>' compiled succesfully with Id '26'.
+[17:56:23] [System] Shader '<TrailRenderer.vert>:<TrailRenderer.frag>:<>' linked successfully
+[17:56:23] [System] Resolving Path: Assets/UI/MenuLogo.png
+[17:56:23] [System] Loading Texture: Assets/UI/MenuLogo.png Id=144
+[17:56:23] [System] Resolving Path: Assets/UI/InventoryBackground.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventoryBackground.png Id=157
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlot.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlot.png Id=158
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotBoots.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotBoots.png Id=161
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotPants.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotPants.png Id=162
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotChest.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotChest.png Id=163
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotHelmet.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotHelmet.png Id=164
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotPet.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotPet.png Id=165
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotGlider.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotGlider.png Id=166
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotRing.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotRing.png Id=167
+[17:56:23] [System] Resolving Path: Assets/UI/InventorySlotWeapon.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventorySlotWeapon.png Id=168
+[17:56:23] [System] Resolving Path: Assets/UI/InventoryItemInfo.png
+[17:56:23] [System] Loading Texture: Assets/UI/InventoryItemInfo.png Id=169
+[17:56:23] [System] Resolving Path: Assets/UI/SelectedInventorySlot.png
+[17:56:23] [System] Loading Texture: Assets/UI/SelectedInventorySlot.png Id=172
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[17:56:24] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[17:56:24] [System] Resolving Path: Assets/Skills/Agility.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Agility.png Id=178
+[17:56:24] [System] Shader'<Skills.vert>:<Skills.frag>:<>' compiled succesfully with Id '28'.
+[17:56:24] [System] Shader '<Skills.vert>:<Skills.frag>:<>' linked successfully
+[17:56:24] [System] Resolving Path: Assets/Skills/FlameArrow.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FlameArrow.png Id=179
+[17:56:24] [System] Resolving Path: Assets/Skills/Kick.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Kick.png Id=180
+[17:56:24] [System] Resolving Path: Assets/Skills/IceArrow.png
+[17:56:24] [System] Loading Texture: Assets/Skills/IceArrow.png Id=181
+[17:56:24] [System] Resolving Path: Assets/Skills/PoisonArrow.png
+[17:56:24] [System] Loading Texture: Assets/Skills/PoisonArrow.png Id=182
+[17:56:24] [System] Resolving Path: Assets/Skills/PierceArrows.png
+[17:56:24] [System] Loading Texture: Assets/Skills/PierceArrows.png Id=183
+[17:56:24] [System] Resolving Path: Assets/Skills/Jab.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Jab.png Id=184
+[17:56:24] [System] Resolving Path: Assets/Skills/LearnKnife.png
+[17:56:24] [System] Loading Texture: Assets/Skills/LearnKnife.png Id=185
+[17:56:24] [System] Resolving Path: Assets/Skills/Concealment.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Concealment.png Id=186
+[17:56:24] [System] Resolving Path: Assets/Skills/Focus.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Focus.png Id=187
+[17:56:24] [System] Resolving Path: Assets/Skills/Raven.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Raven.png Id=188
+[17:56:24] [System] Resolving Path: Assets/Skills/Scavenge.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Scavenge.png Id=189
+[17:56:24] [System] Resolving Path: Assets/Skills/SpikeTrap.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SpikeTrap.png Id=190
+[17:56:24] [System] Resolving Path: Assets/Skills/SteadyAim.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SteadyAim.png Id=191
+[17:56:24] [System] Resolving Path: Assets/Skills/SteelArrows.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SteelArrows.png Id=192
+[17:56:24] [System] Resolving Path: Assets/Skills/HotPursuit.png
+[17:56:24] [System] Loading Texture: Assets/Skills/HotPursuit.png Id=193
+[17:56:24] [System] Resolving Path: Assets/Skills/Nimbleness.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Nimbleness.png Id=194
+[17:56:24] [System] Resolving Path: Assets/Skills/Retreat.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Retreat.png Id=195
+[17:56:24] [System] Resolving Path: Assets/Skills/Rush.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Rush.png Id=196
+[17:56:24] [System] Resolving Path: Assets/Skills/Swiftness.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Swiftness.png Id=197
+[17:56:24] [System] Resolving Path: Assets/Skills/BurstOfSpeed.png
+[17:56:24] [System] Loading Texture: Assets/Skills/BurstOfSpeed.png Id=198
+[17:56:24] [System] Resolving Path: Assets/Skills/Claw.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Claw.png Id=199
+[17:56:24] [System] Resolving Path: Assets/Skills/Katar.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Katar.png Id=200
+[17:56:24] [System] Resolving Path: Assets/Skills/RoundSlash.png
+[17:56:24] [System] Loading Texture: Assets/Skills/RoundSlash.png Id=201
+[17:56:24] [System] Resolving Path: Assets/Skills/Shuriken.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Shuriken.png Id=202
+[17:56:24] [System] Resolving Path: Assets/Skills/Venom.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Venom.png Id=203
+[17:56:24] [System] Resolving Path: Assets/Skills/ShadowWarrior.png
+[17:56:24] [System] Loading Texture: Assets/Skills/ShadowWarrior.png Id=204
+[17:56:24] [System] Resolving Path: Assets/Skills/FanOfKnives.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FanOfKnives.png Id=205
+[17:56:24] [System] Resolving Path: Assets/Skills/SnakeSpirit.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SnakeSpirit.png Id=206
+[17:56:24] [System] Resolving Path: Assets/Skills/MartialArtsTraining.png
+[17:56:24] [System] Loading Texture: Assets/Skills/MartialArtsTraining.png Id=207
+[17:56:24] [System] Resolving Path: Assets/Skills/MartialArtsMaster.png
+[17:56:24] [System] Loading Texture: Assets/Skills/MartialArtsMaster.png Id=208
+[17:56:24] [System] Resolving Path: Assets/Skills/TigerStrike.png
+[17:56:24] [System] Loading Texture: Assets/Skills/TigerStrike.png Id=209
+[17:56:24] [System] Resolving Path: Assets/Skills/TripleShuriken.png
+[17:56:24] [System] Loading Texture: Assets/Skills/TripleShuriken.png Id=210
+[17:56:24] [System] Resolving Path: Assets/Skills/Shuriken.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Shuriken.png Id=202
+[17:56:24] [System] Resolving Path: Assets/Skills/FinishingBlow.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FinishingBlow.png Id=211
+[17:56:24] [System] Resolving Path: Assets/Skills/Fade.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Fade.png Id=212
+[17:56:24] [System] Resolving Path: Assets/Skills/Treason.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Treason.png Id=213
+[17:56:24] [System] Resolving Path: Assets/Skills/Stealth.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Stealth.png Id=214
+[17:56:24] [System] Resolving Path: Assets/Skills/CleanCut.png
+[17:56:24] [System] Loading Texture: Assets/Skills/CleanCut.png Id=215
+[17:56:24] [System] Resolving Path: Assets/Skills/MarkedForDeath.png
+[17:56:24] [System] Loading Texture: Assets/Skills/MarkedForDeath.png Id=216
+[17:56:24] [System] Resolving Path: Assets/Skills/Cutthroat.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Cutthroat.png Id=217
+[17:56:24] [System] Resolving Path: Assets/Skills/NightStalker.png
+[17:56:24] [System] Loading Texture: Assets/Skills/NightStalker.png Id=218
+[17:56:24] [System] Resolving Path: Assets/Skills/QuietSteps.png
+[17:56:24] [System] Loading Texture: Assets/Skills/QuietSteps.png Id=219
+[17:56:24] [System] Resolving Path: Assets/Skills/Bash.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Bash.png Id=220
+[17:56:24] [System] Resolving Path: Assets/Skills/Intercept.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Intercept.png Id=221
+[17:56:24] [System] Resolving Path: Assets/Skills/Health.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Health.png Id=222
+[17:56:24] [System] Resolving Path: Assets/Skills/Spin.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Spin.png Id=223
+[17:56:24] [System] Resolving Path: Assets/Skills/NoEscape.png
+[17:56:24] [System] Loading Texture: Assets/Skills/NoEscape.png Id=224
+[17:56:24] [System] Resolving Path: Assets/Skills/Leap.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Leap.png Id=225
+[17:56:24] [System] Resolving Path: Assets/Skills/Retreat.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Retreat.png Id=195
+[17:56:24] [System] Resolving Path: Assets/Skills/Thorns.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Thorns.png Id=226
+[17:56:24] [System] Resolving Path: Assets/Skills/Faith.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Faith.png Id=227
+[17:56:24] [System] Resolving Path: Assets/Skills/FireEnchant.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FireEnchant.png Id=228
+[17:56:24] [System] Resolving Path: Assets/Skills/HolyAttack.png
+[17:56:24] [System] Loading Texture: Assets/Skills/HolyAttack.png Id=229
+[17:56:24] [System] Resolving Path: Assets/Skills/Hammer.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Hammer.png Id=230
+[17:56:24] [System] Resolving Path: Assets/Skills/Salvation.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Salvation.png Id=231
+[17:56:24] [System] Resolving Path: Assets/Skills/Prayer.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Prayer.png Id=232
+[17:56:24] [System] Resolving Path: Assets/Skills/Smite.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Smite.png Id=233
+[17:56:24] [System] Resolving Path: Assets/Skills/Berserk.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Berserk.png Id=234
+[17:56:24] [System] Resolving Path: Assets/Skills/Frenzy.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Frenzy.png Id=235
+[17:56:24] [System] Resolving Path: Assets/Skills/GroundStomp.png
+[17:56:24] [System] Loading Texture: Assets/Skills/GroundStomp.png Id=236
+[17:56:24] [System] Resolving Path: Assets/Skills/IronSkin.png
+[17:56:24] [System] Loading Texture: Assets/Skills/IronSkin.png Id=237
+[17:56:24] [System] Resolving Path: Assets/Skills/Axe.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Axe.png Id=238
+[17:56:24] [System] Resolving Path: Assets/Skills/Sacrifice.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Sacrifice.png Id=239
+[17:56:24] [System] Resolving Path: Assets/Skills/BattleCry.png
+[17:56:24] [System] Loading Texture: Assets/Skills/BattleCry.png Id=240
+[17:56:24] [System] Resolving Path: Assets/Skills/FireRelease.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FireRelease.png Id=241
+[17:56:24] [System] Resolving Path: Assets/Skills/Blaze.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Blaze.png Id=242
+[17:56:24] [System] Shader'<Skills.vert>:<Skills.frag>:<>' compiled succesfully with Id '29'.
+[17:56:24] [System] Shader '<Skills.vert>:<Skills.frag>:<>' linked successfully
+[17:56:24] [System] Resolving Path: Assets/Skills/EnergyShield.png
+[17:56:24] [System] Loading Texture: Assets/Skills/EnergyShield.png Id=243
+[17:56:24] [System] Resolving Path: Assets/Skills/Teleport.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Teleport.png Id=244
+[17:56:24] [System] Resolving Path: Assets/Skills/FireImmunity.png
+[17:56:24] [System] Loading Texture: Assets/Skills/FireImmunity.png Id=245
+[17:56:24] [System] Resolving Path: Assets/Skills/Meditation.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Meditation.png Id=246
+[17:56:24] [System] Resolving Path: Assets/Skills/Inferno.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Inferno.png Id=247
+[17:56:24] [System] Resolving Path: Assets/Skills/BloodExchange.png
+[17:56:24] [System] Loading Texture: Assets/Skills/BloodExchange.png Id=248
+[17:56:24] [System] Resolving Path: Assets/Skills/Leech.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Leech.png Id=249
+[17:56:24] [System] Resolving Path: Assets/Skills/DarkReaping.png
+[17:56:24] [System] Loading Texture: Assets/Skills/DarkReaping.png Id=250
+[17:56:24] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[17:56:24] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[17:56:24] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[17:56:24] [System] Resolving Path: Assets/Skills/SkeletonMastery.png
+[17:56:24] [System] Loading Texture: Assets/Skills/SkeletonMastery.png Id=253
+[17:56:24] [System] Resolving Path: Assets/Skills/Terror.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Terror.png Id=254
+[17:56:24] [System] Resolving Path: Assets/Skills/ArcticBlast.png
+[17:56:24] [System] Loading Texture: Assets/Skills/ArcticBlast.png Id=255
+[17:56:24] [System] Resolving Path: Assets/Skills/BearCompanion.png
+[17:56:24] [System] Loading Texture: Assets/Skills/BearCompanion.png Id=256
+[17:56:24] [System] Resolving Path: Assets/Skills/CompanionMastery.png
+[17:56:24] [System] Loading Texture: Assets/Skills/CompanionMastery.png Id=257
+[17:56:24] [System] Resolving Path: Assets/Skills/GroundFissure.png
+[17:56:24] [System] Loading Texture: Assets/Skills/GroundFissure.png Id=258
+[17:56:24] [System] Resolving Path: Assets/Skills/HawkCompanion.png
+[17:56:24] [System] Loading Texture: Assets/Skills/HawkCompanion.png Id=259
+[17:56:24] [System] Resolving Path: Assets/Skills/OakSpirit.png
+[17:56:24] [System] Loading Texture: Assets/Skills/OakSpirit.png Id=260
+[17:56:24] [System] Resolving Path: Assets/Skills/Werewolf.png
+[17:56:24] [System] Loading Texture: Assets/Skills/Werewolf.png Id=261
+[17:56:24] [System] Resolving Path: Assets/Skills/WindOfChange.png
+[17:56:24] [System] Loading Texture: Assets/Skills/WindOfChange.png Id=262
+[17:56:24] [System] Resolving Path: Assets/Skills/WolfCompanion.png
+[17:56:24] [System] Loading Texture: Assets/Skills/WolfCompanion.png Id=263
+[17:56:24] [System] Resolving Path: Assets/Skills/HolderSkill.png
+[17:56:24] [System] Loading Texture: Assets/Skills/HolderSkill.png Id=264
+[17:56:24] [System] Resolving Path: Assets/UI/SkillLabel.png
+[17:56:24] [System] Loading Texture: Assets/UI/SkillLabel.png Id=265
+[17:56:24] [System] Resolving Path: Assets/UI/AbilityTreeBackground.png
+[17:56:24] [System] Loading Texture: Assets/UI/AbilityTreeBackground.png Id=266
+[17:56:24] [System] Shader'<SkyGradient.vert>:<SkyGradient.frag>:<>' compiled succesfully with Id '30'.
+[17:56:24] [System] Shader '<SkyGradient.vert>:<SkyGradient.frag>:<>' linked successfully
+[17:56:24] [System] Shader'<SkyOverlay.vert>:<SkyOverlay.frag>:<>' compiled succesfully with Id '31'.
+[17:56:24] [System] Shader '<SkyOverlay.vert>:<SkyOverlay.frag>:<>' linked successfully
+[17:56:25] [System] Resolving Path: Assets/UI/QuestTextureBackground.png
+[17:56:25] [System] Loading Texture: Assets/UI/QuestTextureBackground.png Id=272
+[17:56:25] [System] Resolving Path: Assets/UI/MiniMap.png
+[17:56:25] [System] Loading Texture: Assets/UI/MiniMap.png Id=277
+[17:56:25] [System] Resolving Path: Assets/UI/MapCursor.png
+[17:56:25] [System] Loading Texture: Assets/UI/MapCursor.png Id=278
+[17:56:25] [System] Resolving Path: Assets/UI/MiniMapRing.png
+[17:56:25] [System] Loading Texture: Assets/UI/MiniMapRing.png Id=279
+[17:56:25] [System] Resolving Path: Assets/UI/MiniMapNorth.png
+[17:56:25] [System] Loading Texture: Assets/UI/MiniMapNorth.png Id=280
+[17:56:25] [System] Resolving Path: Assets/UI/MiniMapMarker.png
+[17:56:25] [System] Loading Texture: Assets/UI/MiniMapMarker.png Id=281
+[17:56:25] [System] Resolving Path: Assets/UI/MiniMapQuest.png
+[17:56:25] [System] Loading Texture: Assets/UI/MiniMapQuest.png Id=282
+[17:56:25] [System] Resolving Path: Assets/UI/Plaque.png
+[17:56:25] [System] Loading Texture: Assets/UI/Plaque.png Id=286
+[17:56:25]  Creating the GUI...
+[17:56:25]  Network types found ('16')
+[17:56:25]  Discovered '7' different hedra packets...
+[17:56:25] [System] Loaded model '$DataFile$/Assets/Chr/RogueIdle.dae' with '15' joints
+[17:56:25] [System] Loaded model '$DataFile$/Assets/Chr/ArcherIdle.dae' with '15' joints
+[17:56:25] [System] Loaded model '$DataFile$/Assets/Chr/MageIdle.dae' with '15' joints
+[17:56:25] [System] Resolving Path: $DataFile$/Assets/Skills/Warrior.png
+[17:56:25] [System] Loading Texture: $DataFile$/Assets/Skills/Warrior.png Id=287
+[17:56:26]  Created loading screen.
+[17:56:26] [System] Resolving Path: Assets/Skills/Slash.png
+[17:56:26] [System] Loading Texture: Assets/Skills/Slash.png Id=292
+[17:56:26] [System] Resolving Path: Assets/Skills/Lunge.png
+[17:56:26] [System] Loading Texture: Assets/Skills/Lunge.png Id=293
+[17:56:26] [System] Resolving Path: Assets/Skills/SlashKnife.png
+[17:56:26] [System] Loading Texture: Assets/Skills/SlashKnife.png Id=294
+[17:56:26] [System] Resolving Path: Assets/Skills/LungeKnife.png
+[17:56:26] [System] Loading Texture: Assets/Skills/LungeKnife.png Id=295
+[17:56:26] [System] Resolving Path: Assets/Skills/Shoot.png
+[17:56:26] [System] Loading Texture: Assets/Skills/Shoot.png Id=296
+[17:56:26] [System] Resolving Path: Assets/Skills/TripleShot.png
+[17:56:26] [System] Loading Texture: Assets/Skills/TripleShot.png Id=297
+[17:56:26] [System] Resolving Path: Assets/Skills/SwingAxeIcon.png
+[17:56:26] [System] Loading Texture: Assets/Skills/SwingAxeIcon.png Id=298
+[17:56:26] [System] Resolving Path: Assets/Skills/SmashAxeIcon.png
+[17:56:26] [System] Loading Texture: Assets/Skills/SmashAxeIcon.png Id=299
+[17:56:26] [System] Resolving Path: Assets/Skills/SwingHammerIcon.png
+[17:56:26] [System] Loading Texture: Assets/Skills/SwingHammerIcon.png Id=300
+[17:56:26] [System] Resolving Path: Assets/Skills/SmashHammerIcon.png
+[17:56:26] [System] Loading Texture: Assets/Skills/SmashHammerIcon.png Id=301
+[17:56:26] [System] Resolving Path: Assets/Skills/BladesAttack1.png
+[17:56:26] [System] Loading Texture: Assets/Skills/BladesAttack1.png Id=302
+[17:56:26] [System] Resolving Path: Assets/Skills/BladesAttack2.png
+[17:56:26] [System] Loading Texture: Assets/Skills/BladesAttack2.png Id=303
+[17:56:26] [System] Resolving Path: Assets/Skills/KatarAttack1.png
+[17:56:26] [System] Loading Texture: Assets/Skills/KatarAttack1.png Id=304
+[17:56:26] [System] Resolving Path: Assets/Skills/KatarAttack2.png
+[17:56:26] [System] Loading Texture: Assets/Skills/KatarAttack2.png Id=305
+[17:56:26] [System] Resolving Path: Assets/Skills/ClawAttack1.png
+[17:56:26] [System] Loading Texture: Assets/Skills/ClawAttack1.png Id=306
+[17:56:26] [System] Resolving Path: Assets/Skills/ClawAttack2.png
+[17:56:26] [System] Loading Texture: Assets/Skills/ClawAttack2.png Id=307
+[17:56:26] [System] Resolving Path: Assets/Skills/StaffAttack1.png
+[17:56:26] [System] Loading Texture: Assets/Skills/StaffAttack1.png Id=308
+[17:56:26] [System] Resolving Path: Assets/Skills/StaffAttack2.png
+[17:56:26] [System] Loading Texture: Assets/Skills/StaffAttack2.png Id=309
+[17:56:26] [System] Resolving Path: Assets/Skills/HolderSkill.png
+[17:56:26] [System] Loading Texture: Assets/Skills/HolderSkill.png Id=264
+[17:56:26] [System] Resolving Path: Assets/Skills/FishingRodAttack1.png
+[17:56:26] [System] Loading Texture: Assets/Skills/FishingRodAttack1.png Id=310
+[17:56:26] [System] Resolving Path: Assets/Skills/FishingRodAttack2.png
+[17:56:26] [System] Loading Texture: Assets/Skills/FishingRodAttack2.png Id=311
+[17:56:26]  Loading the character classes...
+[17:56:26]  Loading character class 'Archer'
+[17:56:26]  Loading character class 'Mage'
+[17:56:26]  Loading character class 'Rogue'
+[17:56:26]  Loading character class 'Warrior'
+[17:56:26]  Scene loading was Successful.
+[17:56:26]  Hooking steam into necessary events...
+[17:56:26]  Loading Chat.py...
+[17:56:26]  Loading Companion.py...
+[17:56:26]  Loading Core.py...
+[17:56:26]  Loading Fishing.py...
+[17:56:26]  Loading Items.py...
+[17:56:26]  Loading Soundtrack.py...
+[17:56:26]  Loading TextDisplay.py...
+[17:56:26]  Loading TextField.py...
+[17:56:26]  Loading Trade.py...
+[17:56:26]  Loading VisualEffects.py...
+[17:56:26]  Loading Missions\BuyFromTravellingMerchant.py...
+[17:56:26]  Loading Missions\CatchAPet.py...
+[17:56:26]  Loading Missions\ClearGraveyard.py...
+[17:56:26]  Loading Missions\CollectAndCraft.py...
+[17:56:26]  Loading Missions\CraftAPotion.py...
+[17:56:26]  Loading Missions\DefeatBossAtGiantTree.py...
+[17:56:26]  Loading Missions\DefendFarmFromAttack.py...
+[17:56:26]  Loading Missions\FarmCore.py...
+[17:56:26]  Loading Missions\FindAndKillLich.py...
+[17:56:26]  Loading Missions\FindCowsThatEscaped.py...
+[17:56:26]  Loading Missions\FishAnItem.py...
+[17:56:26]  Loading Missions\MissionCore.py...
+[17:56:26]  Loading Missions\OccupiedHouse.py...
+[17:56:26]  Loading Missions\PossessedCows.py...
+[17:56:26]  Loading Missions\RescueErudite.py...
+[17:56:26]  Loading Missions\RetrieveStolenItems.py...
+[17:56:26]  Loading Missions\StealFromWitch.py...
+[17:56:26]  Loading Missions\Story.py...
+[17:56:26]  Loading Missions\TheBeginning.py...
+[17:56:26]  Loading Missions\VisitSpawnVillage.py...
+[17:56:27]  Created debug elements.
+[17:56:27] [System] Resolving Path: Assets/splash-logo.png
+[17:56:27] [System] Loading Texture: Assets/splash-logo.png Id=313
+[17:56:27] [System] Resolving Path: Assets/splash-background.png
+[17:56:27] [System] Loading Texture: Assets/splash-background.png Id=314
+[17:56:27]  Loading Icon...
+[17:56:27]  Window settings loading was Successful
+[17:56:27] [System] Resolving Path: $DataFile$/Assets/UI/WarriorLogo.png
+[17:56:27] [System] Loading Texture: $DataFile$/Assets/UI/WarriorLogo.png Id=315
+[17:56:27] [System] Resolving Path: Assets/Bar.png
+[17:56:27] [System] Loading Texture: Assets/Bar.png Id=316
+[17:56:27] [System] Shader'<Particle.vert>:<Particle.frag>:<>' compiled succesfully with Id '32'.
+[17:56:27] [System] Shader '<Particle.vert>:<Particle.frag>:<>' linked successfully
+[17:56:27] [System] Shader'<Lines.vert>:<Lines.frag>:<>' compiled succesfully with Id '33'.
+[17:56:27] [System] Shader '<Lines.vert>:<Lines.frag>:<>' linked successfully
+[17:56:27] [System] Shader'<GUI.vert>:<MinimapGUI.frag>:<>' compiled succesfully with Id '34'.
+[17:56:27] [System] Shader '<GUI.vert>:<MinimapGUI.frag>:<>' linked successfully
+[17:56:31] [System] Resolving Path: $DataFile$/Assets/Skills/Druid.png
+[17:56:31] [System] Loading Texture: $DataFile$/Assets/Skills/Druid.png Id=324
+[17:56:31] [System] Resolving Path: $DataFile$/Assets/Skills/Necromancer.png
+[17:56:31] [System] Loading Texture: $DataFile$/Assets/Skills/Necromancer.png Id=325
+[17:56:31] [System] Resolving Path: $DataFile$/Assets/Skills/Mage.png
+[17:56:31] [System] Loading Texture: $DataFile$/Assets/Skills/Mage.png Id=326
+[17:56:31]  Making 'Sicrowiz' current with seed 535003856.
+[17:56:33] [System] Resolving Path: $DataFile$/Assets/UI/MageLogo.png
+[17:56:33] [System] Loading Texture: $DataFile$/Assets/UI/MageLogo.png Id=330
+[17:56:33] [System] Shader'<Billboard.vert>:<Billboard.frag>:<>' compiled succesfully with Id '38'.
+[17:56:33] [System] Shader '<Billboard.vert>:<Billboard.frag>:<>' linked successfully
+[17:56:34] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Clothier1Idle.dae' with '15' joints
+[17:56:34] [IO] Registered resource handler... (Total = 3)
+[17:56:34] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Clothier0Idle.dae' with '15' joints
+[17:56:34] [System] Resolving Path: Assets/UI/EntityHealthBarBackground.png
+[17:56:34] [System] Loading Texture: Assets/UI/EntityHealthBarBackground.png Id=338
+[17:56:34] [System] Resolving Path: Assets/UI/Dialog.png
+[17:56:34] [System] Loading Texture: Assets/UI/Dialog.png Id=341
+[17:56:34] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Blacksmith0Idle.dae' with '15' joints
+[17:56:34] [System] Loaded model '$DataFile$/Assets/Chr/MerchantIdle.dae' with '15' joints
+[17:56:34] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Mason0Idle.dae' with '15' joints
+[17:56:35] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Erudites/Scholar0Idle.dae' with '15' joints
+[17:56:35] [System] Loaded model '$DataFile$/Assets/Chr/BlacksmithIdle.dae' with '15' joints
+[17:56:36] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Blacksmith1Idle.dae' with '15' joints
+[17:56:37] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Erudites/Scholar1Idle.dae' with '15' joints
+[17:56:37] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Erudites/Bard0Idle.dae' with '15' joints
+[17:56:38] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Erudites/Bard1Idle.dae' with '15' joints
+[17:56:38] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Innkeeper0Idle.dae' with '15' joints
+[17:56:39] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Town/Innkeeper1Idle.dae' with '15' joints
+[17:56:41] [System] Loaded model 'Assets/Chr/ChestIdle.dae' with '2' joints
+[17:56:42] [System] Loaded model '$DataFile$/Assets/Chr/PugIdle.dae' with '25' joints
+[17:56:43]  UNEXPECTED FATAL EXCEPTION :
+
+----STACK TRACE----
+
+System.InvalidOperationException: La séquence ne contient aucun élément correspondant.
+   à System.Linq.Enumerable.First[TSource](IEnumerable`1 source, Func`2 predicate)
+   à Hedra.Items.Trader.GetNormalizedAttributeValue(Item Item, CommonAttributes Attribute)
+   à Hedra.Items.Trader.SingleItemPrice(Item Item)
+   à Hedra.Engine.Player.Inventory.TradeInventoryInterfaceItemInfo.AddHint()
+   à Hedra.Engine.Player.Inventory.InventoryInterfaceItemInfo.UpdateView()
+   à Hedra.Engine.Player.Inventory.TradeInventoryInterfaceItemInfo.Show(Item Item)
+   à Hedra.Engine.Rendering.UI.OnButtonHoverEnterEventHandler.Invoke()
+   à Hedra.Engine.Rendering.UI.Button.OnMouseMove(Object Sender, MouseMoveEventArgs E)
+   à Hedra.Engine.Events.EventDispatcher.OnMouseMove(MouseMoveEventArgs E)
+   à Hedra.Engine.Loader.HedraWindow.<.ctor>b__6_0(IMouse _, PointF Point)
+   à Generated_Glfw_d05016b4_1867_42d9_87d0_5ef0de34bb3f.PollEvents()
+   à Hedra.Engine.Loader.HedraWindow.Run()
+   à Hedra.Engine.Program.RunNormalAndDummyMode(Boolean DummyMode)
+   à Hedra.Engine.Program.Main(String[] Args)
+
+----SCRIPT TRACE---
+
+Traceback (most recent call last):
+SystemError: La séquence ne contient aucun élément correspondant.
+

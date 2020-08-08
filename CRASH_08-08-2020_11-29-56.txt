@@ -1,0 +1,1095 @@
+[13:19:14]  Appending 'C:/Program Files (x86)/Steam/steamapps/common/project-hedra/x64/' to the PATH for library finding.
+[13:19:15]  Creating the window on the Primary Device at 1920x1080
+[13:19:15]  Running 1.0 Build 16 as x64
+[13:19:16]  Max uniforms is '1024' but max joints is '50'
+[13:19:16]  3.3.0 NVIDIA 451.67
+[13:19:20] [IO] Registered resource handler... (Total = 1)
+[13:19:20] [System] Shader'<Passthrough.vert>:<Passthrough.frag>:<>' compiled succesfully with Id '3'.
+[13:19:20] [System] Shader '<Passthrough.vert>:<Passthrough.frag>:<>' linked successfully
+[13:19:20] [System] Shader'<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' compiled succesfully with Id '5'.
+[13:19:20] [System] Shader '<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' linked successfully
+[13:19:20] [System] Parsing uniform array 'jointTransforms'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '5'
+[13:19:20] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '5'
+[13:19:20]  Geometry shaders are ENABLED
+[13:19:20]  Compatibility mode is OFF...
+[13:19:20]  Attemping to load sound engine...
+[13:19:20]  Generating a pool of sound sources...
+[13:19:20]  Generating a pool of sound items...
+[13:19:20]  Loading Python engine...
+[13:19:20]  Python engine was successfully loaded in 279 MS
+[13:19:21]  Sound engine loaded succesfully
+[13:19:21]  Loading sounds...
+[13:19:21] [IO] Registered resource handler... (Total = 2)
+[13:19:21] [System] Loading BirchTreesCache into cache as BirchTrees...
+[13:19:21] [System] Loading CauldronIconCache into cache as CauldronIcon...
+[13:19:21] [System] Loading ClockIconCache into cache as ClockIcon...
+[13:19:21] [System] Loading Dungeon0Cache into cache as Dungeon0...
+[13:19:22] [System] Loading Dungeon1Cache into cache as Dungeon1...
+[13:19:22] [System] Loading Dungeon1IconCache into cache as Dungeon1Icon...
+[13:19:22] [System] Loading Dungeon2Cache into cache as Dungeon2...
+[13:19:22] [System] Loading Dungeon2IconCache into cache as Dungeon2Icon...
+[13:19:22] [System] Loading Dungeon0IconCache into cache as Dungeon0Icon...
+[13:19:22] [System] Loading FishingPostIconCache into cache as FishingPostIcon...
+[13:19:22] [System] Loading GarrisonCache into cache as Garrison...
+[13:19:22] [System] Loading GarrisonIconCache into cache as GarrisonIcon...
+[13:19:22] [System] Loading GnollFortressCache into cache as GnollFortress...
+[13:19:22] [System] Loading GnollFortressIconCache into cache as GnollFortressIcon...
+[13:19:22] [System] Loading LilyPadCache into cache as LilyPad...
+[13:19:22] [System] Loading RosemaryCache into cache as Rosemary...
+[13:19:22] [System] Loading ShroomDimensionPortalCache into cache as ShroomPortal...
+[13:19:22] [System] Loading ShroomDimensionPortalIconCache into cache as ShroomPortalIcon...
+[13:19:22] [System] Loading ThymeCache into cache as Thyme...
+[13:19:22] [System] Loading StorylineCache into cache as StorylineIcon...
+[13:19:22] [System] Loading TreeStumpCache into cache as TreeStump...
+[13:19:22] [System] Loading WillowTreesCache into cache as WillowTrees...
+[13:19:22] [System] Loading WindmillIconCache into cache as WindmillIcon...
+[13:19:23] [System] Loading WizardTowerCache into cache as WizardTower...
+[13:19:23] [System] Loading WoodLogCache into cache as WoodLog...
+[13:19:23] [System] Loading CabbageCache into cache as Cabbage...
+[13:19:23] [System] Loading CarrotPlantCache into cache as Carrot...
+[13:19:23] [System] Loading CornCache into cache as Corn...
+[13:19:23] [System] Loading DeadGrassCache into cache as DeadGrass...
+[13:19:23] [System] Loading DeathIconCache into cache as DeathIcon...
+[13:19:23] [System] Loading GazeboCache into cache as Gazebo...
+[13:19:23] [System] Loading GazeboIconCache into cache as GazeboIcon...
+[13:19:23] [System] Loading MushroomCache into cache as Mushroom...
+[13:19:23] [System] Loading OnionPlantCache into cache as Onion...
+[13:19:23] [System] Loading PeaPlantCache into cache as Peas...
+[13:19:23] [System] Loading PebbleCache into cache as Pebble...
+[13:19:23] [System] Loading PortalCache into cache as Portal...
+[13:19:23] [System] Loading PortalIconCache into cache as PortalIcon...
+[13:19:23] [System] Loading PumpkinCache into cache as Pumpkin...
+[13:19:23] [System] Loading StickCache into cache as Stick...
+[13:19:23] [System] Loading SunflowerCache into cache as Sunflower...
+[13:19:23] [System] Loading TimberCache into cache as Timber...
+[13:19:23] [System] Loading TomatoPlantCache into cache as Tomato...
+[13:19:23] [System] Loading WellCache into cache as Well...
+[13:19:23] [System] Loading WitchHutCache into cache as WitchHut...
+[13:19:23] [System] Loading WitchHutIconCache into cache as WitchHutIcon...
+[13:19:23] [System] Loading WizardTowerIcon into cache as WizardTowerIcon...
+[13:19:23]  Finished loading sounds.
+[13:19:23] [System] Loading AppleTreesCache into cache as AppleTrees...
+[13:19:23] [System] Loading AttentionIconCache into cache as AttentionIcon...
+[13:19:23] [System] Loading BerryBushCache into cache as BerryBush...
+[13:19:23] [System] Loading BossIconCache into cache as BossIcon...
+[13:19:23] [System] Loading BushesCache into cache as Bushes...
+[13:19:23] [System] Loading CampfireCache into cache as Campfire...
+[13:19:23] [System] Loading CampfireIconCache into cache as CampfireIcon...
+[13:19:23] [System] Loading CampfireLogsCache into cache as CampfireLogs...
+[13:19:23] [System] Loading CampfireRoasterCache into cache as CampfireRoaster...
+[13:19:23] [System] Loading CloudCache into cache as Cloud...
+[13:19:23] [System] Loading CypressTreesCache into cache as CypressTrees...
+[13:19:23] [System] Loading DeadTreesCache into cache as DeadTrees...
+[13:19:23] [System] Loading FearIconCache into cache as FearIcon...
+[13:19:23] [System] Loading FernCache into cache as Fern...
+[13:19:24] [System] Loading GiantTreeCache into cache as GiantTree...
+[13:19:24] [System] Loading GrassCache into cache as Grass...
+[13:19:24] [System] Loading GraveCache into cache as Grave...
+[13:19:24] [System] Loading GraveyardIconCache into cache as GraveyardIcon...
+[13:19:24] [System] Loading MatCache into cache as Mat...
+[13:19:24] [System] Loading MausoleumCache into cache as Mausoleum...
+[13:19:24] [System] Loading MerchantCartCache into cache as MerchantCart...
+[13:19:24] [System] Loading MerchantIconCache into cache as MerchantIcon...
+[13:19:24] [System] Loading OakTreesCache into cache as OakTrees...
+[13:19:24] [System] Loading ObeliskCache into cache as Obelisk...
+[13:19:24] [System] Loading PineTreesCache into cache as PineTrees...
+[13:19:24] [System] Loading ReedCache into cache as Reed...
+[13:19:24] [System] Loading RockCache into cache as Rock...
+[13:19:24] [System] Loading KnockedIconCache into cache as KnockedIcon...
+[13:19:24] [System] Loading SleepingIconCache into cache as SleepingIcon...
+[13:19:24] [System] Loading TallTreesCache into cache as TallTrees...
+[13:19:24] [System] Loading CampfireTentCache into cache as CampfireTent...
+[13:19:24] [System] Loading VillageIconCache into cache as VillageIcon...
+[13:19:24] [System] Loading WheatCache into cache as Wheat...
+[13:19:24]  Finished building cache.
+[13:19:25]  Translations loaded successfully.
+[13:19:25]  Initializing world renderer...
+[13:19:25] [System] Shader'<Water.vert>:<Water.frag>:<>' compiled succesfully with Id '4'.
+[13:19:25] [System] Shader '<Water.vert>:<Water.frag>:<>' linked successfully
+[13:19:25] [System] Parsing uniform array 'AreaColors'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[0]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[1]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[2]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[3]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[4]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[5]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[6]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[7]' from ShaderId '4'
+[13:19:25] [System] Parsing uniform array 'AreaPositions'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[0]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[1]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[2]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[3]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[4]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[5]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[6]' from ShaderId '4'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[7]' from ShaderId '4'
+[13:19:25] [System] Shader'<Static.vert>:<Static.frag>:<>' compiled succesfully with Id '6'.
+[13:19:25] [System] Shader '<Static.vert>:<Static.frag>:<>' linked successfully
+[13:19:25] [System] Parsing uniform array 'AreaColors'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[0]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[1]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[2]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[3]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[4]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[5]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[6]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaColors[7]' from ShaderId '6'
+[13:19:25] [System] Parsing uniform array 'AreaPositions'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[0]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[1]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[2]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[3]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[4]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[5]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[6]' from ShaderId '6'
+[13:19:25] [System] Retrieving uniform array element 'AreaPositions[7]' from ShaderId '6'
+[13:19:25]  Creating 3D noise texture...
+[13:19:25]  Loading DuDvMap...
+[13:19:25] [System] Resolving Path: Assets/FX/waterDuDvMap.png
+[13:19:25] [System] Loading Texture: Assets/FX/waterDuDvMap.png Id=2
+[13:19:25]  Loading water normal map...
+[13:19:25] [System] Resolving Path: Assets/FX/waterNormalMap.png
+[13:19:25] [System] Loading Texture: Assets/FX/waterNormalMap.png Id=3
+[13:19:25]  Detected video card type is 'Amd'
+[13:19:25]  Allocating world memory...
+[13:19:25]  Allocated 303 MB of VRAM for static rendering.
+[13:19:25]  Allocated 371 MB of VRAM for instance rendering.
+[13:19:25]  Allocated 202 MB of VRAM for water rendering.
+[13:19:25] [System] Shader'<GUI.vert>:<GUI.frag>:<>' compiled succesfully with Id '7'.
+[13:19:25] [System] Shader '<GUI.vert>:<GUI.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<GUI.vert>:<GUI.frag>:<>' compiled succesfully with Id '8'.
+[13:19:25] [System] Shader '<GUI.vert>:<GUI.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<GUI.vert>:<FXAA.frag>:<>' compiled succesfully with Id '9'.
+[13:19:25] [System] Shader '<GUI.vert>:<FXAA.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<SSAO.vert>:<SSAO-Pass1.frag>:<>' compiled succesfully with Id '10'.
+[13:19:25] [System] Shader '<SSAO.vert>:<SSAO-Pass1.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<SSAO.vert>:<SSAO-Pass2.frag>:<>' compiled succesfully with Id '11'.
+[13:19:25] [System] Shader '<SSAO.vert>:<SSAO-Pass2.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<SSAO.vert>:<SSAO-Pass3.frag>:<>' compiled succesfully with Id '12'.
+[13:19:25] [System] Shader '<SSAO.vert>:<SSAO-Pass3.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<Bloom.vert>:<Bloom.frag>:<>' compiled succesfully with Id '13'.
+[13:19:25] [System] Shader '<Bloom.vert>:<Bloom.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<HBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '14'.
+[13:19:25] [System] Shader '<HBlur.vert>:<Blur.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<VBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '15'.
+[13:19:25] [System] Shader '<VBlur.vert>:<Blur.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<UnderWater.vert>:<UnderWater.frag>:<>' compiled succesfully with Id '16'.
+[13:19:25] [System] Shader '<UnderWater.vert>:<UnderWater.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<UnderWater.vert>:<Distortion.frag>:<>' compiled succesfully with Id '17'.
+[13:19:25] [System] Shader '<UnderWater.vert>:<Distortion.frag>:<>' linked successfully
+[13:19:25] [System] Resolving Path: Assets/FX/waterDuDvMap.png
+[13:19:25] [System] Loading Texture: Assets/FX/waterDuDvMap.png Id=30
+[13:19:25] [System] Shader'<HBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '18'.
+[13:19:25] [System] Shader '<HBlur.vert>:<Blur.frag>:<>' linked successfully
+[13:19:25] [System] Shader'<VBlur.vert>:<Blur.frag>:<>' compiled succesfully with Id '19'.
+[13:19:25] [System] Shader '<VBlur.vert>:<Blur.frag>:<>' linked successfully
+[13:19:25]  Assets loading was successful.
+[13:19:25] [System] Shader'<Shadows.vert>:<Shadows.frag>:<>' compiled succesfully with Id '20'.
+[13:19:25] [System] Shader '<Shadows.vert>:<Shadows.frag>:<>' linked successfully
+[13:19:25]  Setting shadow quality to 3
+[13:19:25]  Setting shadow quality to 3
+[13:19:25]  Setting loaded successfully.
+[13:19:25]  Supported GLSL version is : 3.30 NVIDIA via Cg compiler
+[13:19:25]  OS = Microsoft Windows NT 6.2.9200.0
+CPU = Intel64 Family 6 Model 158 Stepping 10, GenuineIntel
+Graphics Card = Nvidia
+
+[13:19:25]  Loading the world...
+[13:19:29]  Loading village 'Woodland' took '2557' MS
+[13:19:29]  Loading the player...
+[13:19:29] [System] Shader'<ObjectMesh.vert>:<ObjectMesh.frag>:<>' compiled succesfully with Id '21'.
+[13:19:29] [System] Shader '<ObjectMesh.vert>:<ObjectMesh.frag>:<>' linked successfully
+[13:19:29] [System] Shader'<OccludePassthrough.vert>:<Passthrough.frag>:<>' compiled succesfully with Id '22'.
+[13:19:29] [System] Shader '<OccludePassthrough.vert>:<Passthrough.frag>:<>' linked successfully
+[13:19:29] [System] Resolving Path: Assets/UI/HealthBarBackground.png
+[13:19:29] [System] Loading Texture: Assets/UI/HealthBarBackground.png Id=117
+[13:19:29] [System] Resolving Path: Assets/UI/ManaBarBackground.png
+[13:19:29] [System] Loading Texture: Assets/UI/ManaBarBackground.png Id=118
+[13:19:29] [System] Resolving Path: Assets/UI/XpBarBackground.png
+[13:19:29] [System] Loading Texture: Assets/UI/XpBarBackground.png Id=119
+[13:19:29] [System] Resolving Path: Assets/UI/HealthBar.png
+[13:19:30] [System] Loading Texture: Assets/UI/HealthBar.png Id=120
+[13:19:30] [System] Shader'<Bar.vert>:<Bar.frag>:<>' compiled succesfully with Id '23'.
+[13:19:30] [System] Shader '<Bar.vert>:<Bar.frag>:<>' linked successfully
+[13:19:30] [System] Resolving Path: Assets/UI/ManaBar.png
+[13:19:30] [System] Loading Texture: Assets/UI/ManaBar.png Id=121
+[13:19:30] [System] Resolving Path: Assets/UI/XpBar.png
+[13:19:30] [System] Loading Texture: Assets/UI/XpBar.png Id=122
+[13:19:30] [System] Resolving Path: Assets/UI/StaminaAndOxygenBarBackground.png
+[13:19:30] [System] Loading Texture: Assets/UI/StaminaAndOxygenBarBackground.png Id=123
+[13:19:30] [System] Resolving Path: Assets/UI/OxygenBar.png
+[13:19:30] [System] Loading Texture: Assets/UI/OxygenBar.png Id=124
+[13:19:30] [System] Resolving Path: Assets/UI/StaminaBar.png
+[13:19:30] [System] Loading Texture: Assets/UI/StaminaBar.png Id=125
+[13:19:30] [System] Resolving Path: Assets/UI/OxygenIcon.png
+[13:19:30] [System] Loading Texture: Assets/UI/OxygenIcon.png Id=126
+[13:19:30] [System] Resolving Path: Assets/UI/StaminaIcon.png
+[13:19:30] [System] Loading Texture: Assets/UI/StaminaIcon.png Id=127
+[13:19:30] [System] Resolving Path: Assets/UI/Pointer.png
+[13:19:30] [System] Loading Texture: Assets/UI/Pointer.png Id=128
+[13:19:30] [System] Resolving Path: Assets/UI/Compass.png
+[13:19:30] [System] Loading Texture: Assets/UI/Compass.png Id=129
+[13:19:30] [System] Shader'<Bar.vert>:<Bar.frag>:<>' compiled succesfully with Id '24'.
+[13:19:30] [System] Shader '<Bar.vert>:<Bar.frag>:<>' linked successfully
+[13:19:30] [System] Loaded model '$DataFile$/Assets/Chr/WarriorIdle.dae' with '15' joints
+[13:19:30] [System] Shader'<AnimatedModel.vert>:<AnimatedModel.frag>:<>' compiled succesfully with Id '25'.
+[13:19:30] [System] Shader '<AnimatedModel.vert>:<AnimatedModel.frag>:<>' linked successfully
+[13:19:30] [System] Parsing uniform array 'jointTransforms'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '25'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '25'
+[13:19:30] [System] Shader'<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' compiled succesfully with Id '27'.
+[13:19:30] [System] Shader '<AnimatedModelDeath.vert>:<AnimatedModelDeath.frag>:<AnimatedModelDeath.geom>' linked successfully
+[13:19:30] [System] Parsing uniform array 'jointTransforms'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[0]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[1]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[2]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[3]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[4]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[5]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[6]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[7]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[8]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[9]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[10]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[11]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[12]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[13]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[14]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[15]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[16]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[17]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[18]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[19]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[20]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[21]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[22]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[23]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[24]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[25]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[26]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[27]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[28]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[29]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[30]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[31]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[32]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[33]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[34]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[35]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[36]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[37]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[38]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[39]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[40]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[41]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[42]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[43]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[44]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[45]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[46]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[47]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[48]' from ShaderId '27'
+[13:19:30] [System] Retrieving uniform array element 'jointTransforms[49]' from ShaderId '27'
+[13:19:30] [System] Shader'<TrailRenderer.vert>:<TrailRenderer.frag>:<>' compiled succesfully with Id '26'.
+[13:19:30] [System] Shader '<TrailRenderer.vert>:<TrailRenderer.frag>:<>' linked successfully
+[13:19:30] [System] Resolving Path: Assets/UI/MenuLogo.png
+[13:19:30] [System] Loading Texture: Assets/UI/MenuLogo.png Id=144
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryBackground.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryBackground.png Id=157
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlot.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlot.png Id=158
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotBoots.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotBoots.png Id=161
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotPants.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotPants.png Id=162
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotChest.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotChest.png Id=163
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotHelmet.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotHelmet.png Id=164
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotPet.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotPet.png Id=165
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotGlider.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotGlider.png Id=166
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotRing.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotRing.png Id=167
+[13:19:31] [System] Resolving Path: Assets/UI/InventorySlotWeapon.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventorySlotWeapon.png Id=168
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryItemInfo.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryItemInfo.png Id=169
+[13:19:31] [System] Resolving Path: Assets/UI/SelectedInventorySlot.png
+[13:19:31] [System] Loading Texture: Assets/UI/SelectedInventorySlot.png Id=172
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/UI/InventoryCircle.png
+[13:19:31] [System] Loading Texture: Assets/UI/InventoryCircle.png Id=177
+[13:19:31] [System] Resolving Path: Assets/Skills/Agility.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Agility.png Id=178
+[13:19:31] [System] Shader'<Skills.vert>:<Skills.frag>:<>' compiled succesfully with Id '28'.
+[13:19:31] [System] Shader '<Skills.vert>:<Skills.frag>:<>' linked successfully
+[13:19:31] [System] Resolving Path: Assets/Skills/FlameArrow.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FlameArrow.png Id=179
+[13:19:31] [System] Resolving Path: Assets/Skills/Kick.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Kick.png Id=180
+[13:19:31] [System] Resolving Path: Assets/Skills/IceArrow.png
+[13:19:31] [System] Loading Texture: Assets/Skills/IceArrow.png Id=181
+[13:19:31] [System] Resolving Path: Assets/Skills/PoisonArrow.png
+[13:19:31] [System] Loading Texture: Assets/Skills/PoisonArrow.png Id=182
+[13:19:31] [System] Resolving Path: Assets/Skills/PierceArrows.png
+[13:19:31] [System] Loading Texture: Assets/Skills/PierceArrows.png Id=183
+[13:19:31] [System] Resolving Path: Assets/Skills/Jab.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Jab.png Id=184
+[13:19:31] [System] Resolving Path: Assets/Skills/LearnKnife.png
+[13:19:31] [System] Loading Texture: Assets/Skills/LearnKnife.png Id=185
+[13:19:31] [System] Resolving Path: Assets/Skills/Concealment.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Concealment.png Id=186
+[13:19:31] [System] Resolving Path: Assets/Skills/Focus.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Focus.png Id=187
+[13:19:31] [System] Resolving Path: Assets/Skills/Raven.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Raven.png Id=188
+[13:19:31] [System] Resolving Path: Assets/Skills/Scavenge.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Scavenge.png Id=189
+[13:19:31] [System] Resolving Path: Assets/Skills/SpikeTrap.png
+[13:19:31] [System] Loading Texture: Assets/Skills/SpikeTrap.png Id=190
+[13:19:31] [System] Resolving Path: Assets/Skills/SteadyAim.png
+[13:19:31] [System] Loading Texture: Assets/Skills/SteadyAim.png Id=191
+[13:19:31] [System] Resolving Path: Assets/Skills/SteelArrows.png
+[13:19:31] [System] Loading Texture: Assets/Skills/SteelArrows.png Id=192
+[13:19:31] [System] Resolving Path: Assets/Skills/HotPursuit.png
+[13:19:31] [System] Loading Texture: Assets/Skills/HotPursuit.png Id=193
+[13:19:31] [System] Resolving Path: Assets/Skills/Nimbleness.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Nimbleness.png Id=194
+[13:19:31] [System] Resolving Path: Assets/Skills/Retreat.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Retreat.png Id=195
+[13:19:31] [System] Resolving Path: Assets/Skills/Rush.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Rush.png Id=196
+[13:19:31] [System] Resolving Path: Assets/Skills/Swiftness.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Swiftness.png Id=197
+[13:19:31] [System] Resolving Path: Assets/Skills/BurstOfSpeed.png
+[13:19:31] [System] Loading Texture: Assets/Skills/BurstOfSpeed.png Id=198
+[13:19:31] [System] Resolving Path: Assets/Skills/Claw.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Claw.png Id=199
+[13:19:31] [System] Resolving Path: Assets/Skills/Katar.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Katar.png Id=200
+[13:19:31] [System] Resolving Path: Assets/Skills/RoundSlash.png
+[13:19:31] [System] Loading Texture: Assets/Skills/RoundSlash.png Id=201
+[13:19:31] [System] Resolving Path: Assets/Skills/Shuriken.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Shuriken.png Id=202
+[13:19:31] [System] Resolving Path: Assets/Skills/Venom.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Venom.png Id=203
+[13:19:31] [System] Resolving Path: Assets/Skills/ShadowWarrior.png
+[13:19:31] [System] Loading Texture: Assets/Skills/ShadowWarrior.png Id=204
+[13:19:31] [System] Resolving Path: Assets/Skills/FanOfKnives.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FanOfKnives.png Id=205
+[13:19:31] [System] Resolving Path: Assets/Skills/SnakeSpirit.png
+[13:19:31] [System] Loading Texture: Assets/Skills/SnakeSpirit.png Id=206
+[13:19:31] [System] Resolving Path: Assets/Skills/MartialArtsTraining.png
+[13:19:31] [System] Loading Texture: Assets/Skills/MartialArtsTraining.png Id=207
+[13:19:31] [System] Resolving Path: Assets/Skills/MartialArtsMaster.png
+[13:19:31] [System] Loading Texture: Assets/Skills/MartialArtsMaster.png Id=208
+[13:19:31] [System] Resolving Path: Assets/Skills/TigerStrike.png
+[13:19:31] [System] Loading Texture: Assets/Skills/TigerStrike.png Id=209
+[13:19:31] [System] Resolving Path: Assets/Skills/TripleShuriken.png
+[13:19:31] [System] Loading Texture: Assets/Skills/TripleShuriken.png Id=210
+[13:19:31] [System] Resolving Path: Assets/Skills/Shuriken.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Shuriken.png Id=202
+[13:19:31] [System] Resolving Path: Assets/Skills/FinishingBlow.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FinishingBlow.png Id=211
+[13:19:31] [System] Resolving Path: Assets/Skills/Fade.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Fade.png Id=212
+[13:19:31] [System] Resolving Path: Assets/Skills/Treason.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Treason.png Id=213
+[13:19:31] [System] Resolving Path: Assets/Skills/Stealth.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Stealth.png Id=214
+[13:19:31] [System] Resolving Path: Assets/Skills/CleanCut.png
+[13:19:31] [System] Loading Texture: Assets/Skills/CleanCut.png Id=215
+[13:19:31] [System] Resolving Path: Assets/Skills/MarkedForDeath.png
+[13:19:31] [System] Loading Texture: Assets/Skills/MarkedForDeath.png Id=216
+[13:19:31] [System] Resolving Path: Assets/Skills/Cutthroat.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Cutthroat.png Id=217
+[13:19:31] [System] Resolving Path: Assets/Skills/NightStalker.png
+[13:19:31] [System] Loading Texture: Assets/Skills/NightStalker.png Id=218
+[13:19:31] [System] Resolving Path: Assets/Skills/QuietSteps.png
+[13:19:31] [System] Loading Texture: Assets/Skills/QuietSteps.png Id=219
+[13:19:31] [System] Resolving Path: Assets/Skills/Bash.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Bash.png Id=220
+[13:19:31] [System] Resolving Path: Assets/Skills/Intercept.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Intercept.png Id=221
+[13:19:31] [System] Resolving Path: Assets/Skills/Health.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Health.png Id=222
+[13:19:31] [System] Resolving Path: Assets/Skills/Spin.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Spin.png Id=223
+[13:19:31] [System] Resolving Path: Assets/Skills/NoEscape.png
+[13:19:31] [System] Loading Texture: Assets/Skills/NoEscape.png Id=224
+[13:19:31] [System] Resolving Path: Assets/Skills/Leap.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Leap.png Id=225
+[13:19:31] [System] Resolving Path: Assets/Skills/Retreat.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Retreat.png Id=195
+[13:19:31] [System] Resolving Path: Assets/Skills/Thorns.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Thorns.png Id=226
+[13:19:31] [System] Resolving Path: Assets/Skills/Faith.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Faith.png Id=227
+[13:19:31] [System] Resolving Path: Assets/Skills/FireEnchant.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FireEnchant.png Id=228
+[13:19:31] [System] Resolving Path: Assets/Skills/HolyAttack.png
+[13:19:31] [System] Loading Texture: Assets/Skills/HolyAttack.png Id=229
+[13:19:31] [System] Resolving Path: Assets/Skills/Hammer.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Hammer.png Id=230
+[13:19:31] [System] Resolving Path: Assets/Skills/Salvation.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Salvation.png Id=231
+[13:19:31] [System] Resolving Path: Assets/Skills/Prayer.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Prayer.png Id=232
+[13:19:31] [System] Resolving Path: Assets/Skills/Smite.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Smite.png Id=233
+[13:19:31] [System] Resolving Path: Assets/Skills/Berserk.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Berserk.png Id=234
+[13:19:31] [System] Resolving Path: Assets/Skills/Frenzy.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Frenzy.png Id=235
+[13:19:31] [System] Resolving Path: Assets/Skills/GroundStomp.png
+[13:19:31] [System] Loading Texture: Assets/Skills/GroundStomp.png Id=236
+[13:19:31] [System] Resolving Path: Assets/Skills/IronSkin.png
+[13:19:31] [System] Loading Texture: Assets/Skills/IronSkin.png Id=237
+[13:19:31] [System] Resolving Path: Assets/Skills/Axe.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Axe.png Id=238
+[13:19:31] [System] Resolving Path: Assets/Skills/Sacrifice.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Sacrifice.png Id=239
+[13:19:31] [System] Resolving Path: Assets/Skills/BattleCry.png
+[13:19:31] [System] Loading Texture: Assets/Skills/BattleCry.png Id=240
+[13:19:31] [System] Resolving Path: Assets/Skills/FireRelease.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FireRelease.png Id=241
+[13:19:31] [System] Resolving Path: Assets/Skills/Blaze.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Blaze.png Id=242
+[13:19:31] [System] Shader'<Skills.vert>:<Skills.frag>:<>' compiled succesfully with Id '29'.
+[13:19:31] [System] Shader '<Skills.vert>:<Skills.frag>:<>' linked successfully
+[13:19:31] [System] Resolving Path: Assets/Skills/EnergyShield.png
+[13:19:31] [System] Loading Texture: Assets/Skills/EnergyShield.png Id=243
+[13:19:31] [System] Resolving Path: Assets/Skills/Teleport.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Teleport.png Id=244
+[13:19:31] [System] Resolving Path: Assets/Skills/FireImmunity.png
+[13:19:31] [System] Loading Texture: Assets/Skills/FireImmunity.png Id=245
+[13:19:31] [System] Resolving Path: Assets/Skills/Meditation.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Meditation.png Id=246
+[13:19:31] [System] Resolving Path: Assets/Skills/Inferno.png
+[13:19:31] [System] Loading Texture: Assets/Skills/Inferno.png Id=247
+[13:19:31] [System] Resolving Path: Assets/Skills/BloodExchange.png
+[13:19:31] [System] Loading Texture: Assets/Skills/BloodExchange.png Id=248
+[13:19:32] [System] Resolving Path: Assets/Skills/Leech.png
+[13:19:32] [System] Loading Texture: Assets/Skills/Leech.png Id=249
+[13:19:32] [System] Resolving Path: Assets/Skills/DarkReaping.png
+[13:19:32] [System] Loading Texture: Assets/Skills/DarkReaping.png Id=250
+[13:19:32] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:19:32] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:19:32] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:19:32] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:19:32] [System] Resolving Path: Assets/Skills/SkeletonMastery.png
+[13:19:32] [System] Loading Texture: Assets/Skills/SkeletonMastery.png Id=253
+[13:19:32] [System] Resolving Path: Assets/Skills/Terror.png
+[13:19:32] [System] Loading Texture: Assets/Skills/Terror.png Id=254
+[13:19:32] [System] Resolving Path: Assets/Skills/ArcticBlast.png
+[13:19:32] [System] Loading Texture: Assets/Skills/ArcticBlast.png Id=255
+[13:19:32] [System] Resolving Path: Assets/Skills/BearCompanion.png
+[13:19:32] [System] Loading Texture: Assets/Skills/BearCompanion.png Id=256
+[13:19:32] [System] Resolving Path: Assets/Skills/CompanionMastery.png
+[13:19:32] [System] Loading Texture: Assets/Skills/CompanionMastery.png Id=257
+[13:19:32] [System] Resolving Path: Assets/Skills/GroundFissure.png
+[13:19:32] [System] Loading Texture: Assets/Skills/GroundFissure.png Id=258
+[13:19:32] [System] Resolving Path: Assets/Skills/HawkCompanion.png
+[13:19:32] [System] Loading Texture: Assets/Skills/HawkCompanion.png Id=259
+[13:19:32] [System] Resolving Path: Assets/Skills/OakSpirit.png
+[13:19:32] [System] Loading Texture: Assets/Skills/OakSpirit.png Id=260
+[13:19:32] [System] Resolving Path: Assets/Skills/Werewolf.png
+[13:19:32] [System] Loading Texture: Assets/Skills/Werewolf.png Id=261
+[13:19:32] [System] Resolving Path: Assets/Skills/WindOfChange.png
+[13:19:32] [System] Loading Texture: Assets/Skills/WindOfChange.png Id=262
+[13:19:32] [System] Resolving Path: Assets/Skills/WolfCompanion.png
+[13:19:32] [System] Loading Texture: Assets/Skills/WolfCompanion.png Id=263
+[13:19:32] [System] Resolving Path: Assets/Skills/HolderSkill.png
+[13:19:32] [System] Loading Texture: Assets/Skills/HolderSkill.png Id=264
+[13:19:32] [System] Resolving Path: Assets/UI/SkillLabel.png
+[13:19:32] [System] Loading Texture: Assets/UI/SkillLabel.png Id=265
+[13:19:32] [System] Resolving Path: Assets/UI/AbilityTreeBackground.png
+[13:19:32] [System] Loading Texture: Assets/UI/AbilityTreeBackground.png Id=266
+[13:19:32] [System] Shader'<SkyGradient.vert>:<SkyGradient.frag>:<>' compiled succesfully with Id '30'.
+[13:19:32] [System] Shader '<SkyGradient.vert>:<SkyGradient.frag>:<>' linked successfully
+[13:19:32] [System] Shader'<SkyOverlay.vert>:<SkyOverlay.frag>:<>' compiled succesfully with Id '31'.
+[13:19:32] [System] Shader '<SkyOverlay.vert>:<SkyOverlay.frag>:<>' linked successfully
+[13:19:32] [System] Resolving Path: Assets/UI/QuestTextureBackground.png
+[13:19:32] [System] Loading Texture: Assets/UI/QuestTextureBackground.png Id=272
+[13:19:32] [System] Resolving Path: Assets/UI/MiniMap.png
+[13:19:32] [System] Loading Texture: Assets/UI/MiniMap.png Id=277
+[13:19:32] [System] Resolving Path: Assets/UI/MapCursor.png
+[13:19:32] [System] Loading Texture: Assets/UI/MapCursor.png Id=278
+[13:19:32] [System] Resolving Path: Assets/UI/MiniMapRing.png
+[13:19:32] [System] Loading Texture: Assets/UI/MiniMapRing.png Id=279
+[13:19:32] [System] Resolving Path: Assets/UI/MiniMapNorth.png
+[13:19:32] [System] Loading Texture: Assets/UI/MiniMapNorth.png Id=280
+[13:19:32] [System] Resolving Path: Assets/UI/MiniMapMarker.png
+[13:19:32] [System] Loading Texture: Assets/UI/MiniMapMarker.png Id=281
+[13:19:32] [System] Resolving Path: Assets/UI/MiniMapQuest.png
+[13:19:32] [System] Loading Texture: Assets/UI/MiniMapQuest.png Id=282
+[13:19:32] [System] Resolving Path: Assets/UI/Plaque.png
+[13:19:32] [System] Loading Texture: Assets/UI/Plaque.png Id=286
+[13:19:32]  Creating the GUI...
+[13:19:32]  Network types found ('16')
+[13:19:32]  Discovered '7' different hedra packets...
+[13:19:32] [System] Loaded model '$DataFile$/Assets/Chr/RogueIdle.dae' with '15' joints
+[13:19:32] [System] Loaded model '$DataFile$/Assets/Chr/ArcherIdle.dae' with '15' joints
+[13:19:33] [System] Loaded model '$DataFile$/Assets/Chr/MageIdle.dae' with '15' joints
+[13:19:33] [System] Resolving Path: $DataFile$/Assets/Skills/Warrior.png
+[13:19:33] [System] Loading Texture: $DataFile$/Assets/Skills/Warrior.png Id=287
+[13:19:33]  Created loading screen.
+[13:19:33] [System] Resolving Path: Assets/Skills/Slash.png
+[13:19:33] [System] Loading Texture: Assets/Skills/Slash.png Id=292
+[13:19:33] [System] Resolving Path: Assets/Skills/Lunge.png
+[13:19:33] [System] Loading Texture: Assets/Skills/Lunge.png Id=293
+[13:19:33] [System] Resolving Path: Assets/Skills/SlashKnife.png
+[13:19:33] [System] Loading Texture: Assets/Skills/SlashKnife.png Id=294
+[13:19:33] [System] Resolving Path: Assets/Skills/LungeKnife.png
+[13:19:33] [System] Loading Texture: Assets/Skills/LungeKnife.png Id=295
+[13:19:33] [System] Resolving Path: Assets/Skills/Shoot.png
+[13:19:33] [System] Loading Texture: Assets/Skills/Shoot.png Id=296
+[13:19:33] [System] Resolving Path: Assets/Skills/TripleShot.png
+[13:19:33] [System] Loading Texture: Assets/Skills/TripleShot.png Id=297
+[13:19:33] [System] Resolving Path: Assets/Skills/SwingAxeIcon.png
+[13:19:33] [System] Loading Texture: Assets/Skills/SwingAxeIcon.png Id=298
+[13:19:33] [System] Resolving Path: Assets/Skills/SmashAxeIcon.png
+[13:19:33] [System] Loading Texture: Assets/Skills/SmashAxeIcon.png Id=299
+[13:19:33] [System] Resolving Path: Assets/Skills/SwingHammerIcon.png
+[13:19:33] [System] Loading Texture: Assets/Skills/SwingHammerIcon.png Id=300
+[13:19:33] [System] Resolving Path: Assets/Skills/SmashHammerIcon.png
+[13:19:33] [System] Loading Texture: Assets/Skills/SmashHammerIcon.png Id=301
+[13:19:33] [System] Resolving Path: Assets/Skills/BladesAttack1.png
+[13:19:33] [System] Loading Texture: Assets/Skills/BladesAttack1.png Id=302
+[13:19:33] [System] Resolving Path: Assets/Skills/BladesAttack2.png
+[13:19:33] [System] Loading Texture: Assets/Skills/BladesAttack2.png Id=303
+[13:19:33] [System] Resolving Path: Assets/Skills/KatarAttack1.png
+[13:19:33] [System] Loading Texture: Assets/Skills/KatarAttack1.png Id=304
+[13:19:33] [System] Resolving Path: Assets/Skills/KatarAttack2.png
+[13:19:33] [System] Loading Texture: Assets/Skills/KatarAttack2.png Id=305
+[13:19:33] [System] Resolving Path: Assets/Skills/ClawAttack1.png
+[13:19:33] [System] Loading Texture: Assets/Skills/ClawAttack1.png Id=306
+[13:19:33] [System] Resolving Path: Assets/Skills/ClawAttack2.png
+[13:19:33] [System] Loading Texture: Assets/Skills/ClawAttack2.png Id=307
+[13:19:33] [System] Resolving Path: Assets/Skills/StaffAttack1.png
+[13:19:33] [System] Loading Texture: Assets/Skills/StaffAttack1.png Id=308
+[13:19:33] [System] Resolving Path: Assets/Skills/StaffAttack2.png
+[13:19:33] [System] Loading Texture: Assets/Skills/StaffAttack2.png Id=309
+[13:19:33] [System] Resolving Path: Assets/Skills/HolderSkill.png
+[13:19:33] [System] Loading Texture: Assets/Skills/HolderSkill.png Id=264
+[13:19:33] [System] Resolving Path: Assets/Skills/FishingRodAttack1.png
+[13:19:33] [System] Loading Texture: Assets/Skills/FishingRodAttack1.png Id=310
+[13:19:33] [System] Resolving Path: Assets/Skills/FishingRodAttack2.png
+[13:19:33] [System] Loading Texture: Assets/Skills/FishingRodAttack2.png Id=311
+[13:19:33]  Loading the character classes...
+[13:19:33]  Loading character class 'Archer'
+[13:19:33]  Loading character class 'Mage'
+[13:19:33]  Loading character class 'Rogue'
+[13:19:33]  Loading character class 'Warrior'
+[13:19:33]  Scene loading was Successful.
+[13:19:33]  Hooking steam into necessary events...
+[13:19:33]  Loading Chat.py...
+[13:19:33]  Loading Companion.py...
+[13:19:33]  Loading Core.py...
+[13:19:33]  Loading Fishing.py...
+[13:19:33]  Loading Items.py...
+[13:19:33]  Loading Soundtrack.py...
+[13:19:33]  Loading TextDisplay.py...
+[13:19:33]  Loading TextField.py...
+[13:19:33]  Loading Trade.py...
+[13:19:34]  Loading VisualEffects.py...
+[13:19:34]  Loading Missions\BuyFromTravellingMerchant.py...
+[13:19:34]  Loading Missions\CatchAPet.py...
+[13:19:34]  Loading Missions\ClearGraveyard.py...
+[13:19:34]  Loading Missions\CollectAndCraft.py...
+[13:19:34]  Loading Missions\CraftAPotion.py...
+[13:19:34]  Loading Missions\DefeatBossAtGiantTree.py...
+[13:19:34]  Loading Missions\DefendFarmFromAttack.py...
+[13:19:34]  Loading Missions\FarmCore.py...
+[13:19:34]  Loading Missions\FindAndKillLich.py...
+[13:19:34]  Loading Missions\FindCowsThatEscaped.py...
+[13:19:34]  Loading Missions\FishAnItem.py...
+[13:19:34]  Loading Missions\MissionCore.py...
+[13:19:34]  Loading Missions\OccupiedHouse.py...
+[13:19:34]  Loading Missions\PossessedCows.py...
+[13:19:34]  Loading Missions\RescueErudite.py...
+[13:19:34]  Loading Missions\RetrieveStolenItems.py...
+[13:19:34]  Loading Missions\StealFromWitch.py...
+[13:19:34]  Loading Missions\Story.py...
+[13:19:34]  Loading Missions\TheBeginning.py...
+[13:19:34]  Loading Missions\VisitSpawnVillage.py...
+[13:19:34]  Created debug elements.
+[13:19:34] [System] Resolving Path: Assets/splash-logo.png
+[13:19:34] [System] Loading Texture: Assets/splash-logo.png Id=313
+[13:19:34] [System] Resolving Path: Assets/splash-background.png
+[13:19:34] [System] Loading Texture: Assets/splash-background.png Id=314
+[13:19:34]  Loading Icon...
+[13:19:34]  Window settings loading was Successful
+[13:19:35] [System] Resolving Path: $DataFile$/Assets/UI/WarriorLogo.png
+[13:19:35] [System] Loading Texture: $DataFile$/Assets/UI/WarriorLogo.png Id=315
+[13:19:35] [System] Resolving Path: Assets/Bar.png
+[13:19:35] [System] Loading Texture: Assets/Bar.png Id=316
+[13:19:35] [System] Shader'<Particle.vert>:<Particle.frag>:<>' compiled succesfully with Id '32'.
+[13:19:35] [System] Shader '<Particle.vert>:<Particle.frag>:<>' linked successfully
+[13:19:35] [System] Shader'<Lines.vert>:<Lines.frag>:<>' compiled succesfully with Id '33'.
+[13:19:35] [System] Shader '<Lines.vert>:<Lines.frag>:<>' linked successfully
+[13:19:35] [System] Shader'<GUI.vert>:<MinimapGUI.frag>:<>' compiled succesfully with Id '34'.
+[13:19:35] [System] Shader '<GUI.vert>:<MinimapGUI.frag>:<>' linked successfully
+[13:20:29] [System] Resolving Path: $DataFile$/Assets/Skills/Druid.png
+[13:20:29] [System] Loading Texture: $DataFile$/Assets/Skills/Druid.png Id=324
+[13:20:29] [System] Resolving Path: $DataFile$/Assets/Skills/Necromancer.png
+[13:20:29] [System] Loading Texture: $DataFile$/Assets/Skills/Necromancer.png Id=325
+[13:20:29] [System] Resolving Path: $DataFile$/Assets/Skills/Mage.png
+[13:20:29] [System] Loading Texture: $DataFile$/Assets/Skills/Mage.png Id=326
+[13:20:30]  Making 'Sicrowiz' current with seed 330237527.
+[13:20:30] [System] Resolving Path: $DataFile$/Assets/UI/MageLogo.png
+[13:20:30] [System] Loading Texture: $DataFile$/Assets/UI/MageLogo.png Id=330
+[13:20:30] [System] Shader'<Billboard.vert>:<Billboard.frag>:<>' compiled succesfully with Id '38'.
+[13:20:30] [System] Shader '<Billboard.vert>:<Billboard.frag>:<>' linked successfully
+[13:20:30] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Ghost/LichIdle.dae' with '15' joints
+[13:20:31] [System] Resolving Path: Assets/UI/EntityHealthBarBackground.png
+[13:20:31] [System] Loading Texture: Assets/UI/EntityHealthBarBackground.png Id=338
+[13:20:31] [System] Resolving Path: Assets/UI/BossHealthBarBackground.png
+[13:20:31] [System] Loading Texture: Assets/UI/BossHealthBarBackground.png Id=341
+[13:20:31] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4616,567  76,38167  5224,276>'
+[13:20:31] [System] Loaded model '$DataFile$/Assets/Chr/SkeletonKamikazeIdle.dae' with '15' joints
+[13:20:31] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4915,917  86,19553  4764,608>'
+[13:20:31] [WorldBuilding] Spawned 3 'Ghost' at '<5561,646  74,60001  5388,198>'
+[13:20:31] [System] Loaded model '$DataFile$/Assets/Chr/Mob/Ghost/GhostIdle.dae' with '15' joints
+[13:20:31] [WorldBuilding] Spawned 2 'Skeleton' at '<4851,559  78,58362  5496,126>'
+[13:20:31] [System] Loaded model '$DataFile$/Assets/Chr/SkeletonIdle.dae' with '15' joints
+[13:20:31] [WorldBuilding] Spawned 2 'Skeleton' at '<5554,411  83,48441  4973,542>'
+[13:20:32] [WorldBuilding] Spawned 1 'Ghost' at '<5141,307  77,82399  5710,23>'
+[13:20:32] [WorldBuilding] Spawned 2 'Skeleton' at '<5415,101  74,38296  4652,022>'
+[13:20:32] [WorldBuilding] Spawned 2 'Skeleton' at '<5163,775  74,5955  4414,537>'
+[13:20:33] [WorldBuilding] Spawned 2 'Skeleton' at '<5787,998  66,6  4665,973>'
+[13:20:33] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4278,474  66,6  4781,568>'
+[13:20:33] [WorldBuilding] Spawned 1 'Ghost' at '<5483,534  62,79885  4268,398>'
+[13:20:34] [WorldBuilding] Spawned 3 'Ghost' at '<4748,77  73,66499  4338,81>'
+[13:20:34] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:20:34] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:20:36] [WorldBuilding] Spawned 3 'Skeleton' at '<3930,563  92,64822  4936,053>'
+[13:20:36] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4347,005  66,1579  4328,067>'
+[13:20:37] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4235,32  65,25995  5141,547>'
+[13:20:38] [WorldBuilding] Spawned 3 'Ghost' at '<5940,557  76,42254  5722,65>'
+[13:20:40] [WorldBuilding] Spawned 3 'Skeleton' at '<4544,99  64,64772  5653,696>'
+[13:20:45] [WorldBuilding] Spawned 1 'Ghost' at '<5183,923  82,27764  5319,986>'
+[13:20:46] [WorldBuilding] Spawned 1 'Skeleton' at '<5206,268  69,09058  3795,248>'
+[13:20:55] [WorldBuilding] Spawned 2 'Skeleton' at '<4414,565  65,01686  4368,125>'
+[13:20:57] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5838,875  80,8216  4336,933>'
+[13:20:59] [WorldBuilding] Spawned 3 'Skeleton' at '<5759,216  70,13247  5010,587>'
+[13:21:04] [WorldBuilding] Spawned 3 'Ghost' at '<4495,823  76,60658  4849,792>'
+[13:21:06] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4414,266  64,75465  4362,634>'
+[13:21:08] [WorldBuilding] Spawned 1 'Ghost' at '<4500,032  65,09984  5593,967>'
+[13:21:11] [WorldBuilding] Spawned 1 'Ghost' at '<4161,817  66,6  4786,131>'
+[13:21:15] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5376,01  82,59999  4861,691>'
+[13:21:17] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5619,105  64,88609  4624,865>'
+[13:21:18]  'Suicide Skeleton' fell through the world at 'X:5606,559 Y:-0,2295514 Z:4631,972'. Fixing its height...
+[13:21:19] [WorldBuilding] Spawned 2 'Skeleton' at '<3890,126  87,4118  4985,918>'
+[13:21:23] [WorldBuilding] Spawned 1 'Ghost' at '<4267,211  93,87188  5217,875>'
+[13:21:25] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5315,414  76,37488  4468,965>'
+[13:21:29] [WorldBuilding] Spawned 3 'Ghost' at '<4104,952  65,55714  4061,047>'
+[13:21:31] [WorldBuilding] Spawned 1 'Ghost' at '<5997,133  72,38992  5793,719>'
+[13:21:41] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5263,139  90,00365  4876,675>'
+[13:22:02] [WorldBuilding] Spawned 2 'Skeleton' at '<3878,928  70,93249  5019,19>'
+[13:22:20] [WorldBuilding] Spawned 1 'Ghost' at '<4986,993  82,6  4585,426>'
+[13:22:29] [WorldBuilding] Spawned 2 'Ghost' at '<4618,595  65,58636  6290,418>'
+[13:22:53]  Making 'Sicrowiz' current with seed 330237527.
+[13:22:54] [WorldBuilding] Spawned 1 'Skeleton' at '<5427,175  82,6  5360,417>'
+[13:22:54] [WorldBuilding] Spawned 3 'Skeleton' at '<4963,849  85,84782  4611,572>'
+[13:22:54] [WorldBuilding] Spawned 3 'Skeleton' at '<5336,44  77,64511  4564,227>'
+[13:22:55] [WorldBuilding] Spawned 2 'Skeleton' at '<5722,954  68,14075  5069,203>'
+[13:22:55] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4664,127  78,58762  5359,317>'
+[13:22:56] [WorldBuilding] Spawned 2 'Ghost' at '<5088,54  66,00492  5896,324>'
+[13:22:56] [WorldBuilding] Spawned 3 'Ghost' at '<4558,57  77,14294  4961,239>'
+[13:22:56] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5749,8  66,6  4617,176>'
+[13:22:56] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5398,326  81,42979  4917,672>'
+[13:22:57] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:22:57] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:22:57] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5739,92  65,2215  5439,218>'
+[13:22:58] [WorldBuilding] Spawned 3 'Ghost' at '<4350,568  66,6  4453,28>'
+[13:22:58] [WorldBuilding] Spawned 2 'Ghost' at '<5120,532  65,02214  4273,935>'
+[13:22:59] [WorldBuilding] Spawned 1 'Skeleton' at '<4314,019  82,58127  5247,918>'
+[13:22:59] [WorldBuilding] Spawned 1 'Skeleton' at '<4092,81  64,21672  4759,792>'
+[13:22:59] [WorldBuilding] Spawned 3 'Skeleton' at '<5099,213  88,93222  5474,272>'
+[13:23:01]  'Skeleton' fell through the world at 'X:4949,528 Y:-0,01111111 Z:4596,609'. Fixing its height...
+[13:23:01]  'Skeleton' fell through the world at 'X:4969,083 Y:-0,01111111 Z:4596,836'. Fixing its height...
+[13:23:01] [WorldBuilding] Spawned 3 'Ghost' at '<4674,287  66,6  4222,686>'
+[13:23:02]  'Skeleton' fell through the world at 'X:4947,949 Y:-0,3583532 Z:4604,344'. Fixing its height...
+[13:23:02] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:23:02] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:23:07] [WorldBuilding] Spawned 3 'Ghost' at '<5214,113  69,47099  3842,645>'
+[13:23:12]  Making 'Sicrowiz' current with seed 330237527.
+[13:23:13] [WorldBuilding] Spawned 2 'Ghost' at '<5201,288  86,57141  5462,858>'
+[13:23:13] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4756,123  77,23926  5221,702>'
+[13:23:13] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5410,563  78,57437  5024,578>'
+[13:23:13] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5105,804  78,59999  4678,627>'
+[13:23:14] [WorldBuilding] Spawned 2 'Skeleton' at '<5716,134  69,04636  5365,983>'
+[13:23:14] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4443,886  74,6  4853,499>'
+[13:23:14] [WorldBuilding] Spawned 3 'Ghost' at '<5798,105  70,14134  4922,979>'
+[13:23:15] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5438,176  72,13231  4653,254>'
+[13:23:15] [WorldBuilding] Spawned 2 'Skeleton' at '<4773,718  74,60001  5647,224>'
+[13:23:15] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5347,461  69,83698  4297,363>'
+[13:23:15] [WorldBuilding] Spawned 3 'Skeleton' at '<4847,496  74,6  4281,272>'
+[13:23:16] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5478,844  65,25521  5634,928>'
+[13:23:16]  'Suicide Skeleton' fell through the world at 'X:5110,337 Y:-1,250431 Z:4687,299'. Fixing its height...
+[13:23:17] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:23:17] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:23:17] [WorldBuilding] Spawned 3 'Ghost' at '<4334,461  72,7677  5291,615>'
+[13:23:19] [WorldBuilding] Spawned 3 'Skeleton' at '<4381,32  67,09593  4450,664>'
+[13:23:20] [WorldBuilding] Spawned 3 'Skeleton' at '<5952,146  69,61613  5684,424>'
+[13:23:23] [WorldBuilding] Spawned 2 'Skeleton' at '<5833,539  70,41887  4310,732>'
+[13:23:23] [WorldBuilding] Spawned 2 'Skeleton' at '<5084,396  69,79388  5828,891>'
+[13:23:24] [WorldBuilding] Spawned 1 'Ghost' at '<3968,499  89,1751  4910,818>'
+[13:23:27] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:23:27] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:23:33] [WorldBuilding] Spawned 3 'Ghost' at '<4746,604  92,32614  4653,451>'
+[13:23:42]  Making 'Sicrowiz' current with seed 330237527.
+[13:23:43] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5190,849  81,52359  5308,093>'
+[13:23:43] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5583,026  68,83992  5248,667>'
+[13:23:43] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4850,058  86,25756  4838,705>'
+[13:23:44] [WorldBuilding] Spawned 2 'Skeleton' at '<5484,136  78,31249  4780,896>'
+[13:23:44] [WorldBuilding] Spawned 3 'Ghost' at '<4581,739  97,27415  5126,603>'
+[13:23:44] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4899,81  82,40949  4391,208>'
+[13:23:45] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5025,162  68,98085  5678,599>'
+[13:23:45] [WorldBuilding] Spawned 2 'Ghost' at '<4627,764  81,99532  5488,296>'
+[13:23:45] [WorldBuilding] Spawned 1 'Skeleton' at '<4344,821  70,05479  4791,342>'
+[13:23:45] [WorldBuilding] Spawned 1 'Skeleton' at '<5161,569  89,18902  4599,321>'
+[13:23:46] [WorldBuilding] Spawned 2 'Skeleton' at '<5808,441  68,94081  4938,371>'
+[13:23:47] [WorldBuilding] Spawned 2 'Ghost' at '<4388,673  66,6  4412,396>'
+[13:23:47] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:23:47] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:23:47] [WorldBuilding] Spawned 1 'Skeleton' at '<4255,796  76,93108  5261,66>'
+[13:23:48] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4749,686  65,23145  4103,533>'
+[13:23:48] [WorldBuilding] Spawned 3 'Skeleton' at '<5689,071  88,5117  4522,604>'
+[13:23:48] [WorldBuilding] Spawned 1 'Ghost' at '<4024,055  66,13715  4912,481>'
+[13:23:50] [WorldBuilding] Spawned 3 'Skeleton' at '<5432,229  66,01858  5576,727>'
+[13:23:50] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:23:50] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:23:54] [WorldBuilding] Spawned 3 'Ghost' at '<5411,007  68,44608  4341,414>'
+[13:23:54] [WorldBuilding] Spawned 1 'Skeleton' at '<5213,568  72,79922  3813,961>'
+[13:23:55] [WorldBuilding] Spawned 3 'Skeleton' at '<5930,983  73,41582  5704,385>'
+[13:23:56] [WorldBuilding] Spawned 2 'Ghost' at '<4620,371  63,12591  6310,717>'
+[13:24:01]  Making 'Sicrowiz' current with seed 330237527.
+[13:24:01] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5402,247  82,09816  5304,022>'
+[13:24:02] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5120,758  74,21611  4487,955>'
+[13:24:02] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5623,598  65,0543  4697,262>'
+[13:24:02] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4836,579  73,54553  5529,458>'
+[13:24:02] [WorldBuilding] Spawned 1 'Ghost' at '<4753,956  92,08699  4670,651>'
+[13:24:03] [WorldBuilding] Spawned 3 'Skeleton' at '<4395,731  70,9221  5367,48>'
+[13:24:04] [WorldBuilding] Spawned 2 'Ghost' at '<5065,512  63,49366  5788,573>'
+[13:24:04] [WorldBuilding] Spawned 2 'Skeleton' at '<5577,108  64,27559  5698,456>'
+[13:24:04] [WorldBuilding] Spawned 3 'Skeleton' at '<4416,742  74,04405  4842,395>'
+[13:24:04] [WorldBuilding] Spawned 2 'Ghost' at '<5252,296  90,39564  4804,317>'
+[13:24:04] [WorldBuilding] Spawned 2 'Skeleton' at '<5770,13  66,6  5373,085>'
+[13:24:04] [WorldBuilding] Spawned 1 'Ghost' at '<4401,562  68,38103  4442,155>'
+[13:24:05] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5792,665  65,41829  5040,359>'
+[13:24:05] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:24:05] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:24:05] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4717,77  70,6  4351,629>'
+[13:24:07] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5521,748  63,3102  4046,58>'
+[13:24:07] [WorldBuilding] Spawned 1 'Ghost' at '<3961,861  71,91546  4976,515>'
+[13:24:07] [WorldBuilding] Spawned 2 'Skeleton' at '<6008,154  70,32703  5790,359>'
+[13:24:10] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:24:10] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:24:12] [System] Resolving Path: Assets/Skills/Terror.png
+[13:24:12] [System] Loading Texture: Assets/Skills/Terror.png Id=254
+[13:24:14] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5850,368  80,32462  4327,504>'
+[13:24:16] [WorldBuilding] Spawned 1 'Ghost' at '<5447,065  64,58411  4399,025>'
+[13:24:35] [WorldBuilding] Spawned 3 'Ghost' at '<4703,935  76,55346  5206,346>'
+[13:24:38] [WorldBuilding] Spawned 3 'Ghost' at '<4116,011  69,58088  4014,171>'
+[13:25:06] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5204,402  70,55569  3803,303>'
+[13:25:28] [WorldBuilding] Spawned 1 'Skeleton' at '<5519,79  82,34756  5006,238>'
+[13:25:46] [WorldBuilding] Spawned 1 'Skeleton' at '<4598,239  65,06862  6289,048>'
+[13:26:00]  'Suicide Skeleton' fell through the world at 'X:5124,473 Y:-0,2208914 Z:4499,235'. Fixing its height...
+[13:26:01] [WorldBuilding] Spawned 2 'Skeleton' at '<3870,693  89,74482  4954,873>'
+[13:26:04] [WorldBuilding] Spawned 1 'Skeleton' at '<5230,688  63,08527  3845,497>'
+[13:26:09]  Making 'Sicrowiz' current with seed 330237527.
+[13:26:10] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5497,918  94,23849  5080,121>'
+[13:26:11] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4735,365  82,6  4828,496>'
+[13:26:11] [WorldBuilding] Spawned 1 'Skeleton' at '<5028,72  78,6  4634,638>'
+[13:26:11] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4360,97  110,6  5163,006>'
+[13:26:11] [WorldBuilding] Spawned 1 'Ghost' at '<4704,379  79,27078  5401,863>'
+[13:26:12] [WorldBuilding] Spawned 3 'Ghost' at '<5044,609  100,2274  5888,432>'
+[13:26:12] [WorldBuilding] Spawned 2 'Skeleton' at '<5268,428  82,582  5363,212>'
+[13:26:12] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5033,5  65,45481  4266,744>'
+[13:26:12] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5600,142  64,95317  4682,453>'
+[13:26:12] [WorldBuilding] Spawned 1 'Skeleton' at '<4410,831  74,19123  4752,237>'
+[13:26:13] [WorldBuilding] Spawned 1 'Skeleton' at '<5882,45  81,72234  4373,629>'
+[13:26:13]  'Suicide Skeleton' fell through the world at 'X:4746,031 Y:-1,271526 Z:4834,298'. Fixing its height...
+[13:26:13] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:26:13] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:26:14] [WorldBuilding] Spawned 3 'Ghost' at '<3929,099  91,10152  4928,983>'
+[13:26:15] [WorldBuilding] Spawned 1 'Skeleton' at '<5621,146  63,10572  5477,649>'
+[13:26:17] [WorldBuilding] Spawned 3 'Skeleton' at '<4388,648  65,76879  4383,22>'
+[13:26:17] [WorldBuilding] Spawned 3 'Ghost' at '<5419,1  66,97064  4344,074>'
+[13:26:17] [WorldBuilding] Spawned 3 'Ghost' at '<5511,16  65,50735  3999,397>'
+[13:26:19] [WorldBuilding] Spawned 2 'Skeleton' at '<5185,754  69,07052  3833,92>'
+[13:26:21] [WorldBuilding] Spawned 3 'Skeleton' at '<4673,891  66,5789  4239,354>'
+[13:26:28] [WorldBuilding] Spawned 2 'Skeleton' at '<5985,276  66,50536  5696,706>'
+[13:26:54] [WorldBuilding] Spawned 1 'Ghost' at '<4615,472  65,8923  6296,354>'
+[13:26:57] [WorldBuilding] Spawned 1 'Ghost' at '<4745,136  65,56986  5731,058>'
+[13:27:34] [WorldBuilding] Spawned 3 'Ghost' at '<5198,558  66,1608  3854,583>'
+[13:27:52]  Making 'Sicrowiz' current with seed 330237527.
+[13:27:53] [WorldBuilding] Spawned 1 'Ghost' at '<5104,005  85,12643  5511,954>'
+[13:27:53] [WorldBuilding] Spawned 2 'Ghost' at '<4654,009  74,59999  5268,153>'
+[13:27:54] [WorldBuilding] Spawned 2 'Ghost' at '<5702,834  68,45778  5391,475>'
+[13:27:54] [WorldBuilding] Spawned 2 'Skeleton' at '<4885,654  100,9265  4544,276>'
+[13:27:54] [WorldBuilding] Spawned 2 'Ghost' at '<5454,78  74,6  5164,094>'
+[13:27:54] [WorldBuilding] Spawned 2 'Skeleton' at '<4788,514  66,6  5742,582>'
+[13:27:54] [WorldBuilding] Spawned 1 'Skeleton' at '<5242,801  91,60735  4549,986>'
+[13:27:54] [WorldBuilding] Spawned 1 'Skeleton' at '<5650,472  74,39088  4864,92>'
+[13:27:54] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4354,933  74,6  5047,963>'
+[13:27:56] [WorldBuilding] Spawned 1 'Skeleton' at '<4773,726  67,5009  4141,498>'
+[13:27:56] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5857,11  84,94125  4360,906>'
+[13:27:56] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:27:56] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:27:58] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4038,58  71,6511  4854,309>'
+[13:27:58] [WorldBuilding] Spawned 3 'Ghost' at '<4754,809  82,6  4859,377>'
+[13:27:58] [WorldBuilding] Spawned 1 'Ghost' at '<5085,508  64,93198  5908,616>'
+[13:27:59] [WorldBuilding] Spawned 1 'Skeleton' at '<4611,759  66,0407  6295,138>'
+[13:28:00] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:28:00] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:28:01] [WorldBuilding] Spawned 1 'Ghost' at '<4419,091  65,1448  4367,878>'
+[13:28:03] [WorldBuilding] Spawned 1 'Ghost' at '<5458,034  64,19047  5640,941>'
+[13:28:03] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5966,604  73,90087  5707,075>'
+[13:28:04] [WorldBuilding] Spawned 2 'Skeleton' at '<5260,879  90,46621  4879,536>'
+[13:28:09] [WorldBuilding] Spawned 1 'Skeleton' at '<5424,431  63,0863  4230,637>'
+[13:28:14]  Making 'Sicrowiz' current with seed 330237527.
+[13:28:16] [WorldBuilding] Spawned 2 'Ghost' at '<5400,454  78,59029  5048,485>'
+[13:28:16] [WorldBuilding] Spawned 3 'Ghost' at '<5074,564  73,00287  5827,78>'
+[13:28:16] [WorldBuilding] Spawned 2 'Ghost' at '<5757,68  62,6  5098,914>'
+[13:28:16] [WorldBuilding] Spawned 3 'Ghost' at '<4927,608  86,46196  4797,137>'
+[13:28:16] [WorldBuilding] Spawned 3 'Ghost' at '<4310,129  81,13538  5252,293>'
+[13:28:16] [WorldBuilding] Spawned 3 'Skeleton' at '<5403,486  66,6  4488,276>'
+[13:28:17] [WorldBuilding] Spawned 1 'Skeleton' at '<4740,796  97,78381  5498,292>'
+[13:28:17] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4958,78  78,6  4378,823>'
+[13:28:17] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4612,93  76,94851  4923,015>'
+[13:28:17] [WorldBuilding] Spawned 1 'Ghost' at '<5547,923  73,73824  5429,349>'
+[13:28:18] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<3986,471  66,54305  4812,105>'
+[13:28:19] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:28:19] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:28:19] [WorldBuilding] Spawned 3 'Skeleton' at '<4391,173  66,6  4398,774>'
+[13:28:19] [WorldBuilding] Spawned 3 'Ghost' at '<5498,406  66,83903  4019,417>'
+[13:28:20] [WorldBuilding] Spawned 1 'Skeleton' at '<5959,657  64,35315  5671,088>'
+[13:28:21] [WorldBuilding] Spawned 2 'Ghost' at '<5705,249  66,6  4713,858>'
+[13:28:22] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:28:22] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:28:24] [WorldBuilding] Spawned 1 'Skeleton' at '<5205,083  65,92879  3786,481>'
+[13:28:26] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5122,702  89,01437  5375,222>'
+[13:28:32]  Making 'Sicrowiz' current with seed 330237527.
+[13:28:33] [WorldBuilding] Spawned 2 'Skeleton' at '<5081,544  73,54457  5601,71>'
+[13:28:33] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5005,458  82,6  4763,761>'
+[13:28:34] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5411,41  70,6  5517,271>'
+[13:28:34] [WorldBuilding] Spawned 2 'Ghost' at '<4670,117  82,6  5133,462>'
+[13:28:34] [WorldBuilding] Spawned 3 'Skeleton' at '<4364,657  70,58073  4922,958>'
+[13:28:34] [WorldBuilding] Spawned 1 'Skeleton' at '<4818,119  62,66305  5797,711>'
+[13:28:34] [WorldBuilding] Spawned 3 'Ghost' at '<5714,647  65,28976  5111,854>'
+[13:28:34] [WorldBuilding] Spawned 3 'Ghost' at '<4543,898  78,31001  5452,048>'
+[13:28:34] [WorldBuilding] Spawned 2 'Ghost' at '<5248,758  85,27605  4534,409>'
+[13:28:35] [WorldBuilding] Spawned 3 'Skeleton' at '<5726,741  68,15353  4665,361>'
+[13:28:36] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4950,223  76,39586  4339,531>'
+[13:28:36] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:28:36] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:28:37] [WorldBuilding] Spawned 3 'Skeleton' at '<5877,546  84,92187  4349,504>'
+[13:28:37] [WorldBuilding] Spawned 3 'Ghost' at '<3884,201  81,08023  5002,445>'
+[13:28:40] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:28:40] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:28:40] [WorldBuilding] Spawned 2 'Ghost' at '<5411,98  80,1732  4967,665>'
+[13:28:41] [WorldBuilding] Spawned 3 'Ghost' at '<4129,437  69,19334  4018,823>'
+[13:28:42] [WorldBuilding] Spawned 3 'Ghost' at '<4629,159  63,93369  6286,118>'
+[13:28:43] [WorldBuilding] Spawned 3 'Skeleton' at '<5740,909  65,09335  5444,233>'
+[13:28:44] [WorldBuilding] Spawned 3 'Skeleton' at '<5994,609  65,95762  5834,793>'
+[13:28:44] [WorldBuilding] Spawned 3 'Skeleton' at '<4254,75  81,96275  5247,273>'
+[13:28:46] [WorldBuilding] Spawned 1 'Ghost' at '<5151,443  84,9118  5323,426>'
+[13:28:46] [WorldBuilding] Spawned 1 'Skeleton' at '<4332,464  64,7512  4404,106>'
+[13:28:46] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4675,65  90,6  4679,105>'
+[13:29:04] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4675,953  65,70887  4142,769>'
+[13:29:16] [WorldBuilding] Spawned 1 'Ghost' at '<4134,669  66,79704  4048,768>'
+[13:29:23]  Making 'Sicrowiz' current with seed 330237527.
+[13:29:24] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4783,505  77,58913  5327,223>'
+[13:29:24] [WorldBuilding] Spawned 2 'Skeleton' at '<5618,655  67,11099  4769,748>'
+[13:29:25] [WorldBuilding] Spawned 2 'Ghost' at '<4896,751  88,81719  4702,682>'
+[13:29:25] [WorldBuilding] Spawned 3 'Ghost' at '<5430,496  67,97233  5548,396>'
+[13:29:25] [WorldBuilding] Spawned 3 'Ghost' at '<4790,659  68,84576  5723,862>'
+[13:29:25] [WorldBuilding] Spawned 1 'Ghost' at '<5751,661  68,33447  5366,554>'
+[13:29:25] [WorldBuilding] Spawned 2 'Skeleton' at '<4441,798  131,7717  5092,712>'
+[13:29:26] [WorldBuilding] Spawned 3 'Ghost' at '<5353,983  71,48752  4323,436>'
+[13:29:26] [WorldBuilding] Spawned 3 'Skeleton' at '<4492,51  65,29427  5580,151>'
+[13:29:26] [WorldBuilding] Spawned 1 'Ghost' at '<5086,034  71,9904  5876,298>'
+[13:29:27] [WorldBuilding] Spawned 3 'Ghost' at '<5899,26  67,88064  5719,068>'
+[13:29:27] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4907,72  70,42448  4247,777>'
+[13:29:28] [System] Resolving Path: Assets/Skills/Leech.png
+[13:29:28] [System] Loading Texture: Assets/Skills/Leech.png Id=249
+[13:29:28] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5502,827  97,919  5091,774>'
+[13:29:29] [WorldBuilding] Spawned 2 'Skeleton' at '<5827,703  65,84602  4381,258>'
+[13:29:29] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5281,115  89,55537  4677,353>'
+[13:29:29] [WorldBuilding] Spawned 2 'Skeleton' at '<3967,8  88,58983  4892,953>'
+[13:29:30]  'Skeleton' fell through the world at 'X:5631,434 Y:-0,4127285 Z:4781,605'. Fixing its height...
+[13:29:31] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:29:31] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:29:31] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4390,531  72,49313  4761,406>'
+[13:29:31] [WorldBuilding] Spawned 1 'Ghost' at '<5192,863  67,14771  3850,793>'
+[13:29:36] [WorldBuilding] Spawned 1 'Ghost' at '<4101,686  69,18573  4042,094>'
+[13:29:36] [WorldBuilding] Spawned 3 'Ghost' at '<4346,309  66,45453  4310,182>'
+[13:29:37] [WorldBuilding] Spawned 3 'Skeleton' at '<5094,791  90,59999  5414,15>'
+[13:29:44]  Making 'Sicrowiz' current with seed 330237527.
+[13:29:44] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<5094,874  89,81393  5335,348>'
+[13:29:45] [WorldBuilding] Spawned 2 'Skeleton' at '<5490,928  74,50504  5227,287>'
+[13:29:45] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<4741,875  89,75867  4736,876>'
+[13:29:46] [WorldBuilding] Spawned 3 'Ghost' at '<5051,227  78,46846  4633,805>'
+[13:29:46] [WorldBuilding] Spawned 1 'Ghost' at '<4479,07  78,6  5242,216>'
+[13:29:46] [WorldBuilding] Spawned 2 'Ghost' at '<5523,435  72,46326  4757,063>'
+[13:29:47] [WorldBuilding] Spawned 1 'Skeleton' at '<4413,978  74,6  4792,814>'
+[13:29:47] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<4851,747  69,14367  5763,676>'
+[13:29:47] [WorldBuilding] Spawned 2 'Ghost' at '<4765,527  78,43941  4388,458>'
+[13:29:48] [WorldBuilding] Spawned 2 'SkeletonKamikaze' at '<4360,599  66,29813  4423,354>'
+[13:29:48] [WorldBuilding] Spawned 3 'SkeletonKamikaze' at '<5269,68  92,90431  5654,175>'
+[13:29:49] [System] Resolving Path: Assets/Skills/RaiseSkeletons.png
+[13:29:49] [System] Loading Texture: Assets/Skills/RaiseSkeletons.png Id=251
+[13:29:49] [WorldBuilding] Spawned 3 'Ghost' at '<5239,994  64,85902  4255,851>'
+[13:29:52] [WorldBuilding] Spawned 3 'Skeleton' at '<5898,419  78,11676  4367,993>'
+[13:29:52] [WorldBuilding] Spawned 1 'SkeletonKamikaze' at '<5857,854  64,64926  4932,985>'
+[13:29:54] [System] Resolving Path: Assets/Skills/SiphonBlood.png
+[13:29:54] [System] Loading Texture: Assets/Skills/SiphonBlood.png Id=252
+[13:29:56]  Failed to find path 'Items/Pants/RareBeasthunterBoots.dae' but found similar path 'D:\Project Hedra\Hedra\bin\Release\/Assets/Items\Boots\RareBeasthunterBoots.dae'. Was it a typo?
+[13:29:56]  UNEXPECTED FATAL EXCEPTION :
+
+----STACK TRACE----
+
+System.ArgumentException: Failed to find file '$DataFile$/Items/Pants/RareBeasthunterBoots.dae' in the Assets folder.
+   à Hedra.Engine.Management.CompressedAssetProvider.DAELoader(String File)
+   à Hedra.Engine.Management.AssetManager.LoadModel(String File, Vector3 Scale)
+   à Hedra.Engine.ItemSystem.ItemModelLoader.Load(ItemModelTemplate ModelTemplate)
+   à Hedra.Engine.ItemSystem.Item.get_Model()
+   à Hedra.Engine.ItemSystem.WorldItem..ctor(Item ItemSpecification, Vector3 Position)
+   à Hedra.Engine.Generation.WorldProvider.DropItem(Item ItemSpec, Vector3 Position)
+   à Hedra.Engine.EntitySystem.DropComponent.Drop(IEntity Killer)
+   à Hedra.Components.OnDeadEvent.Invoke(DeadEventArgs Args)
+   à Hedra.Components.DamageComponent.<>c__DisplayClass45_0.<.ctor>b__1(DamageEventArgs A)
+   à Hedra.Components.OnDamageEventHandler.Invoke(DamageEventArgs Args)
+   à Hedra.Components.DamageComponent.Damage(Single Amount, IEntity Damager, Single& Exp, Single& Inflicted, Boolean PlaySound, Boolean PushBack, DamageType DamageType)
+   à Hedra.Engine.EntitySystem.Entity.Damage(Single Amount, IEntity Damager, Single& Exp, Single& Inflicted, Boolean PlaySound, Boolean PushBack, DamageType DamageType)
+   à Hedra.Components.Effects.DamagingEffectComponent.Damage()
+   à Hedra.Components.Effects.BurningComponent.Update()
+   à Hedra.Engine.EntitySystem.Entity.UpdateComponents(Func`2 Filter)
+   à Hedra.Engine.EntitySystem.Entity.Update()
+   à Hedra.Engine.EntitySystem.SkilledAnimableEntity.Update()
+   à Hedra.Engine.Player.BackgroundUpdater.UpdateEntities()
+   à Hedra.Engine.Player.BackgroundUpdater.Update()
+   à System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   à System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state)
+   à System.Threading.ThreadHelper.ThreadStart()
+
+----SCRIPT TRACE---
+
+Traceback (most recent call last):
+ValueError: Failed to find file '$DataFile$/Items/Pants/RareBeasthunterBoots.dae' in the Assets folder.
+
